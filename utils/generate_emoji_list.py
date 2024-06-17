@@ -34,7 +34,7 @@ def fetch_latest_emojis():
 
         emoji = bits[0]
         description = bits[2:]
-        cldr_short_name = ' '.join(description).replace(":", "").replace(" ", "_").lower()
+        cldr_short_name = ' '.join(description).replace(":", "").replace(" ", "_").replace(",", "").lower()
         
         emoji_dict[emoji] = cldr_short_name
     

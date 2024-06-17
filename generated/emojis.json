@@ -3487,37 +3487,37 @@
     },
     {
         "id": 499,
-        "name": "person_light_skin_tone,_blond_hair",
+        "name": "person_light_skin_tone_blond_hair",
         "emoji": "👱🏻",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 500,
-        "name": "person_medium-light_skin_tone,_blond_hair",
+        "name": "person_medium-light_skin_tone_blond_hair",
         "emoji": "👱🏼",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 501,
-        "name": "person_medium_skin_tone,_blond_hair",
+        "name": "person_medium_skin_tone_blond_hair",
         "emoji": "👱🏽",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 502,
-        "name": "person_medium-dark_skin_tone,_blond_hair",
+        "name": "person_medium-dark_skin_tone_blond_hair",
         "emoji": "👱🏾",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 503,
-        "name": "person_dark_skin_tone,_blond_hair",
+        "name": "person_dark_skin_tone_blond_hair",
         "emoji": "👱🏿",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone_blond_hair.png",
         "price": 10
     },
     {
@@ -3571,37 +3571,37 @@
     },
     {
         "id": 511,
-        "name": "person_light_skin_tone,_beard",
+        "name": "person_light_skin_tone_beard",
         "emoji": "🧔🏻",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 512,
-        "name": "person_medium-light_skin_tone,_beard",
+        "name": "person_medium-light_skin_tone_beard",
         "emoji": "🧔🏼",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 513,
-        "name": "person_medium_skin_tone,_beard",
+        "name": "person_medium_skin_tone_beard",
         "emoji": "🧔🏽",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 514,
-        "name": "person_medium-dark_skin_tone,_beard",
+        "name": "person_medium-dark_skin_tone_beard",
         "emoji": "🧔🏾",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 515,
-        "name": "person_dark_skin_tone,_beard",
+        "name": "person_dark_skin_tone_beard",
         "emoji": "🧔🏿",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone_beard.png",
         "price": 10
     },
     {
@@ -3613,37 +3613,37 @@
     },
     {
         "id": 517,
-        "name": "man_light_skin_tone,_beard",
+        "name": "man_light_skin_tone_beard",
         "emoji": "🧔🏻‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 518,
-        "name": "man_medium-light_skin_tone,_beard",
+        "name": "man_medium-light_skin_tone_beard",
         "emoji": "🧔🏼‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 519,
-        "name": "man_medium_skin_tone,_beard",
+        "name": "man_medium_skin_tone_beard",
         "emoji": "🧔🏽‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 520,
-        "name": "man_medium-dark_skin_tone,_beard",
+        "name": "man_medium-dark_skin_tone_beard",
         "emoji": "🧔🏾‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 521,
-        "name": "man_dark_skin_tone,_beard",
+        "name": "man_dark_skin_tone_beard",
         "emoji": "🧔🏿‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone_beard.png",
         "price": 10
     },
     {
@@ -3655,37 +3655,37 @@
     },
     {
         "id": 523,
-        "name": "woman_light_skin_tone,_beard",
+        "name": "woman_light_skin_tone_beard",
         "emoji": "🧔🏻‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 524,
-        "name": "woman_medium-light_skin_tone,_beard",
+        "name": "woman_medium-light_skin_tone_beard",
         "emoji": "🧔🏼‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 525,
-        "name": "woman_medium_skin_tone,_beard",
+        "name": "woman_medium_skin_tone_beard",
         "emoji": "🧔🏽‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 526,
-        "name": "woman_medium-dark_skin_tone,_beard",
+        "name": "woman_medium-dark_skin_tone_beard",
         "emoji": "🧔🏾‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone_beard.png",
         "price": 10
     },
     {
         "id": 527,
-        "name": "woman_dark_skin_tone,_beard",
+        "name": "woman_dark_skin_tone_beard",
         "emoji": "🧔🏿‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone,_beard.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone_beard.png",
         "price": 10
     },
     {
@@ -3697,37 +3697,37 @@
     },
     {
         "id": 529,
-        "name": "man_light_skin_tone,_red_hair",
+        "name": "man_light_skin_tone_red_hair",
         "emoji": "👨🏻‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 530,
-        "name": "man_medium-light_skin_tone,_red_hair",
+        "name": "man_medium-light_skin_tone_red_hair",
         "emoji": "👨🏼‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 531,
-        "name": "man_medium_skin_tone,_red_hair",
+        "name": "man_medium_skin_tone_red_hair",
         "emoji": "👨🏽‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 532,
-        "name": "man_medium-dark_skin_tone,_red_hair",
+        "name": "man_medium-dark_skin_tone_red_hair",
         "emoji": "👨🏾‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 533,
-        "name": "man_dark_skin_tone,_red_hair",
+        "name": "man_dark_skin_tone_red_hair",
         "emoji": "👨🏿‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone_red_hair.png",
         "price": 10
     },
     {
@@ -3739,37 +3739,37 @@
     },
     {
         "id": 535,
-        "name": "man_light_skin_tone,_curly_hair",
+        "name": "man_light_skin_tone_curly_hair",
         "emoji": "👨🏻‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 536,
-        "name": "man_medium-light_skin_tone,_curly_hair",
+        "name": "man_medium-light_skin_tone_curly_hair",
         "emoji": "👨🏼‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 537,
-        "name": "man_medium_skin_tone,_curly_hair",
+        "name": "man_medium_skin_tone_curly_hair",
         "emoji": "👨🏽‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 538,
-        "name": "man_medium-dark_skin_tone,_curly_hair",
+        "name": "man_medium-dark_skin_tone_curly_hair",
         "emoji": "👨🏾‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 539,
-        "name": "man_dark_skin_tone,_curly_hair",
+        "name": "man_dark_skin_tone_curly_hair",
         "emoji": "👨🏿‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone_curly_hair.png",
         "price": 10
     },
     {
@@ -3781,37 +3781,37 @@
     },
     {
         "id": 541,
-        "name": "man_light_skin_tone,_white_hair",
+        "name": "man_light_skin_tone_white_hair",
         "emoji": "👨🏻‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 542,
-        "name": "man_medium-light_skin_tone,_white_hair",
+        "name": "man_medium-light_skin_tone_white_hair",
         "emoji": "👨🏼‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 543,
-        "name": "man_medium_skin_tone,_white_hair",
+        "name": "man_medium_skin_tone_white_hair",
         "emoji": "👨🏽‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 544,
-        "name": "man_medium-dark_skin_tone,_white_hair",
+        "name": "man_medium-dark_skin_tone_white_hair",
         "emoji": "👨🏾‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 545,
-        "name": "man_dark_skin_tone,_white_hair",
+        "name": "man_dark_skin_tone_white_hair",
         "emoji": "👨🏿‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone_white_hair.png",
         "price": 10
     },
     {
@@ -3823,37 +3823,37 @@
     },
     {
         "id": 547,
-        "name": "man_light_skin_tone,_bald",
+        "name": "man_light_skin_tone_bald",
         "emoji": "👨🏻‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 548,
-        "name": "man_medium-light_skin_tone,_bald",
+        "name": "man_medium-light_skin_tone_bald",
         "emoji": "👨🏼‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 549,
-        "name": "man_medium_skin_tone,_bald",
+        "name": "man_medium_skin_tone_bald",
         "emoji": "👨🏽‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 550,
-        "name": "man_medium-dark_skin_tone,_bald",
+        "name": "man_medium-dark_skin_tone_bald",
         "emoji": "👨🏾‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 551,
-        "name": "man_dark_skin_tone,_bald",
+        "name": "man_dark_skin_tone_bald",
         "emoji": "👨🏿‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone_bald.png",
         "price": 10
     },
     {
@@ -3907,37 +3907,37 @@
     },
     {
         "id": 559,
-        "name": "woman_light_skin_tone,_red_hair",
+        "name": "woman_light_skin_tone_red_hair",
         "emoji": "👩🏻‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 560,
-        "name": "woman_medium-light_skin_tone,_red_hair",
+        "name": "woman_medium-light_skin_tone_red_hair",
         "emoji": "👩🏼‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 561,
-        "name": "woman_medium_skin_tone,_red_hair",
+        "name": "woman_medium_skin_tone_red_hair",
         "emoji": "👩🏽‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 562,
-        "name": "woman_medium-dark_skin_tone,_red_hair",
+        "name": "woman_medium-dark_skin_tone_red_hair",
         "emoji": "👩🏾‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 563,
-        "name": "woman_dark_skin_tone,_red_hair",
+        "name": "woman_dark_skin_tone_red_hair",
         "emoji": "👩🏿‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone_red_hair.png",
         "price": 10
     },
     {
@@ -3949,37 +3949,37 @@
     },
     {
         "id": 565,
-        "name": "person_light_skin_tone,_red_hair",
+        "name": "person_light_skin_tone_red_hair",
         "emoji": "🧑🏻‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 566,
-        "name": "person_medium-light_skin_tone,_red_hair",
+        "name": "person_medium-light_skin_tone_red_hair",
         "emoji": "🧑🏼‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 567,
-        "name": "person_medium_skin_tone,_red_hair",
+        "name": "person_medium_skin_tone_red_hair",
         "emoji": "🧑🏽‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 568,
-        "name": "person_medium-dark_skin_tone,_red_hair",
+        "name": "person_medium-dark_skin_tone_red_hair",
         "emoji": "🧑🏾‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone_red_hair.png",
         "price": 10
     },
     {
         "id": 569,
-        "name": "person_dark_skin_tone,_red_hair",
+        "name": "person_dark_skin_tone_red_hair",
         "emoji": "🧑🏿‍🦰",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone,_red_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone_red_hair.png",
         "price": 10
     },
     {
@@ -3991,37 +3991,37 @@
     },
     {
         "id": 571,
-        "name": "woman_light_skin_tone,_curly_hair",
+        "name": "woman_light_skin_tone_curly_hair",
         "emoji": "👩🏻‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 572,
-        "name": "woman_medium-light_skin_tone,_curly_hair",
+        "name": "woman_medium-light_skin_tone_curly_hair",
         "emoji": "👩🏼‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 573,
-        "name": "woman_medium_skin_tone,_curly_hair",
+        "name": "woman_medium_skin_tone_curly_hair",
         "emoji": "👩🏽‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 574,
-        "name": "woman_medium-dark_skin_tone,_curly_hair",
+        "name": "woman_medium-dark_skin_tone_curly_hair",
         "emoji": "👩🏾‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 575,
-        "name": "woman_dark_skin_tone,_curly_hair",
+        "name": "woman_dark_skin_tone_curly_hair",
         "emoji": "👩🏿‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone_curly_hair.png",
         "price": 10
     },
     {
@@ -4033,37 +4033,37 @@
     },
     {
         "id": 577,
-        "name": "person_light_skin_tone,_curly_hair",
+        "name": "person_light_skin_tone_curly_hair",
         "emoji": "🧑🏻‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 578,
-        "name": "person_medium-light_skin_tone,_curly_hair",
+        "name": "person_medium-light_skin_tone_curly_hair",
         "emoji": "🧑🏼‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 579,
-        "name": "person_medium_skin_tone,_curly_hair",
+        "name": "person_medium_skin_tone_curly_hair",
         "emoji": "🧑🏽‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 580,
-        "name": "person_medium-dark_skin_tone,_curly_hair",
+        "name": "person_medium-dark_skin_tone_curly_hair",
         "emoji": "🧑🏾‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone_curly_hair.png",
         "price": 10
     },
     {
         "id": 581,
-        "name": "person_dark_skin_tone,_curly_hair",
+        "name": "person_dark_skin_tone_curly_hair",
         "emoji": "🧑🏿‍🦱",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone,_curly_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone_curly_hair.png",
         "price": 10
     },
     {
@@ -4075,37 +4075,37 @@
     },
     {
         "id": 583,
-        "name": "woman_light_skin_tone,_white_hair",
+        "name": "woman_light_skin_tone_white_hair",
         "emoji": "👩🏻‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 584,
-        "name": "woman_medium-light_skin_tone,_white_hair",
+        "name": "woman_medium-light_skin_tone_white_hair",
         "emoji": "👩🏼‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 585,
-        "name": "woman_medium_skin_tone,_white_hair",
+        "name": "woman_medium_skin_tone_white_hair",
         "emoji": "👩🏽‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 586,
-        "name": "woman_medium-dark_skin_tone,_white_hair",
+        "name": "woman_medium-dark_skin_tone_white_hair",
         "emoji": "👩🏾‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 587,
-        "name": "woman_dark_skin_tone,_white_hair",
+        "name": "woman_dark_skin_tone_white_hair",
         "emoji": "👩🏿‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone_white_hair.png",
         "price": 10
     },
     {
@@ -4117,37 +4117,37 @@
     },
     {
         "id": 589,
-        "name": "person_light_skin_tone,_white_hair",
+        "name": "person_light_skin_tone_white_hair",
         "emoji": "🧑🏻‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 590,
-        "name": "person_medium-light_skin_tone,_white_hair",
+        "name": "person_medium-light_skin_tone_white_hair",
         "emoji": "🧑🏼‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 591,
-        "name": "person_medium_skin_tone,_white_hair",
+        "name": "person_medium_skin_tone_white_hair",
         "emoji": "🧑🏽‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 592,
-        "name": "person_medium-dark_skin_tone,_white_hair",
+        "name": "person_medium-dark_skin_tone_white_hair",
         "emoji": "🧑🏾‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone_white_hair.png",
         "price": 10
     },
     {
         "id": 593,
-        "name": "person_dark_skin_tone,_white_hair",
+        "name": "person_dark_skin_tone_white_hair",
         "emoji": "🧑🏿‍🦳",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone,_white_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone_white_hair.png",
         "price": 10
     },
     {
@@ -4159,37 +4159,37 @@
     },
     {
         "id": 595,
-        "name": "woman_light_skin_tone,_bald",
+        "name": "woman_light_skin_tone_bald",
         "emoji": "👩🏻‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 596,
-        "name": "woman_medium-light_skin_tone,_bald",
+        "name": "woman_medium-light_skin_tone_bald",
         "emoji": "👩🏼‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 597,
-        "name": "woman_medium_skin_tone,_bald",
+        "name": "woman_medium_skin_tone_bald",
         "emoji": "👩🏽‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 598,
-        "name": "woman_medium-dark_skin_tone,_bald",
+        "name": "woman_medium-dark_skin_tone_bald",
         "emoji": "👩🏾‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 599,
-        "name": "woman_dark_skin_tone,_bald",
+        "name": "woman_dark_skin_tone_bald",
         "emoji": "👩🏿‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone_bald.png",
         "price": 10
     },
     {
@@ -4201,37 +4201,37 @@
     },
     {
         "id": 601,
-        "name": "person_light_skin_tone,_bald",
+        "name": "person_light_skin_tone_bald",
         "emoji": "🧑🏻‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_light_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 602,
-        "name": "person_medium-light_skin_tone,_bald",
+        "name": "person_medium-light_skin_tone_bald",
         "emoji": "🧑🏼‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-light_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 603,
-        "name": "person_medium_skin_tone,_bald",
+        "name": "person_medium_skin_tone_bald",
         "emoji": "🧑🏽‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 604,
-        "name": "person_medium-dark_skin_tone,_bald",
+        "name": "person_medium-dark_skin_tone_bald",
         "emoji": "🧑🏾‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_medium-dark_skin_tone_bald.png",
         "price": 10
     },
     {
         "id": 605,
-        "name": "person_dark_skin_tone,_bald",
+        "name": "person_dark_skin_tone_bald",
         "emoji": "🧑🏿‍🦲",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone,_bald.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/person_dark_skin_tone_bald.png",
         "price": 10
     },
     {
@@ -4243,37 +4243,37 @@
     },
     {
         "id": 607,
-        "name": "woman_light_skin_tone,_blond_hair",
+        "name": "woman_light_skin_tone_blond_hair",
         "emoji": "👱🏻‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_light_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 608,
-        "name": "woman_medium-light_skin_tone,_blond_hair",
+        "name": "woman_medium-light_skin_tone_blond_hair",
         "emoji": "👱🏼‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-light_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 609,
-        "name": "woman_medium_skin_tone,_blond_hair",
+        "name": "woman_medium_skin_tone_blond_hair",
         "emoji": "👱🏽‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 610,
-        "name": "woman_medium-dark_skin_tone,_blond_hair",
+        "name": "woman_medium-dark_skin_tone_blond_hair",
         "emoji": "👱🏾‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_medium-dark_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 611,
-        "name": "woman_dark_skin_tone,_blond_hair",
+        "name": "woman_dark_skin_tone_blond_hair",
         "emoji": "👱🏿‍♀️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman_dark_skin_tone_blond_hair.png",
         "price": 10
     },
     {
@@ -4285,37 +4285,37 @@
     },
     {
         "id": 613,
-        "name": "man_light_skin_tone,_blond_hair",
+        "name": "man_light_skin_tone_blond_hair",
         "emoji": "👱🏻‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_light_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 614,
-        "name": "man_medium-light_skin_tone,_blond_hair",
+        "name": "man_medium-light_skin_tone_blond_hair",
         "emoji": "👱🏼‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-light_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 615,
-        "name": "man_medium_skin_tone,_blond_hair",
+        "name": "man_medium_skin_tone_blond_hair",
         "emoji": "👱🏽‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 616,
-        "name": "man_medium-dark_skin_tone,_blond_hair",
+        "name": "man_medium-dark_skin_tone_blond_hair",
         "emoji": "👱🏾‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_medium-dark_skin_tone_blond_hair.png",
         "price": 10
     },
     {
         "id": 617,
-        "name": "man_dark_skin_tone,_blond_hair",
+        "name": "man_dark_skin_tone_blond_hair",
         "emoji": "👱🏿‍♂️",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone,_blond_hair.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man_dark_skin_tone_blond_hair.png",
         "price": 10
     },
     {
@@ -13735,198 +13735,198 @@
     },
     {
         "id": 1963,
-        "name": "kiss_woman,_man",
+        "name": "kiss_woman_man",
         "emoji": "👩‍❤️‍💋‍👨",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman,_man.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman_man.png",
         "price": 10
     },
     {
         "id": 1964,
-        "name": "kiss_woman,_man,_light_skin_tone",
+        "name": "kiss_woman_man_light_skin_tone",
         "emoji": "👩🏻‍❤️‍💋‍👨🏻",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman,_man,_light_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman_man_light_skin_tone.png",
         "price": 10
     },
     {
         "id": 1965,
-        "name": "kiss_woman,_man,_medium-light_skin_tone",
+        "name": "kiss_woman_man_medium-light_skin_tone",
         "emoji": "👩🏼‍❤️‍💋‍👨🏼",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman,_man,_medium-light_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman_man_medium-light_skin_tone.png",
         "price": 10
     },
     {
         "id": 1966,
-        "name": "kiss_woman,_man,_medium_skin_tone",
+        "name": "kiss_woman_man_medium_skin_tone",
         "emoji": "👩🏽‍❤️‍💋‍👨🏽",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman,_man,_medium_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman_man_medium_skin_tone.png",
         "price": 10
     },
     {
         "id": 1967,
-        "name": "kiss_woman,_man,_medium-dark_skin_tone",
+        "name": "kiss_woman_man_medium-dark_skin_tone",
         "emoji": "👩🏾‍❤️‍💋‍👨🏾",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman,_man,_medium-dark_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman_man_medium-dark_skin_tone.png",
         "price": 10
     },
     {
         "id": 1968,
-        "name": "kiss_woman,_man,_dark_skin_tone",
+        "name": "kiss_woman_man_dark_skin_tone",
         "emoji": "👩🏿‍❤️‍💋‍👨🏿",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman,_man,_dark_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kiss_woman_man_dark_skin_tone.png",
         "price": 10
     },
     {
         "id": 1969,
-        "name": "couple_with_heart_woman,_man",
+        "name": "couple_with_heart_woman_man",
         "emoji": "👩‍❤️‍👨",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman,_man.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman_man.png",
         "price": 10
     },
     {
         "id": 1970,
-        "name": "couple_with_heart_woman,_man,_light_skin_tone",
+        "name": "couple_with_heart_woman_man_light_skin_tone",
         "emoji": "👩🏻‍❤️‍👨🏻",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman,_man,_light_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman_man_light_skin_tone.png",
         "price": 10
     },
     {
         "id": 1971,
-        "name": "couple_with_heart_woman,_man,_medium-light_skin_tone",
+        "name": "couple_with_heart_woman_man_medium-light_skin_tone",
         "emoji": "👩🏼‍❤️‍👨🏼",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman,_man,_medium-light_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman_man_medium-light_skin_tone.png",
         "price": 10
     },
     {
         "id": 1972,
-        "name": "couple_with_heart_woman,_man,_medium_skin_tone",
+        "name": "couple_with_heart_woman_man_medium_skin_tone",
         "emoji": "👩🏽‍❤️‍👨🏽",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman,_man,_medium_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman_man_medium_skin_tone.png",
         "price": 10
     },
     {
         "id": 1973,
-        "name": "couple_with_heart_woman,_man,_medium-dark_skin_tone",
+        "name": "couple_with_heart_woman_man_medium-dark_skin_tone",
         "emoji": "👩🏾‍❤️‍👨🏾",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman,_man,_medium-dark_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman_man_medium-dark_skin_tone.png",
         "price": 10
     },
     {
         "id": 1974,
-        "name": "couple_with_heart_woman,_man,_dark_skin_tone",
+        "name": "couple_with_heart_woman_man_dark_skin_tone",
         "emoji": "👩🏿‍❤️‍👨🏿",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman,_man,_dark_skin_tone.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couple_with_heart_woman_man_dark_skin_tone.png",
         "price": 10
     },
     {
         "id": 1975,
-        "name": "family_man,_woman,_boy",
+        "name": "family_man_woman_boy",
         "emoji": "👨‍👩‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_woman,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_woman_boy.png",
         "price": 10
     },
     {
         "id": 1976,
-        "name": "family_man,_woman,_girl",
+        "name": "family_man_woman_girl",
         "emoji": "👨‍👩‍👧",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_woman,_girl.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_woman_girl.png",
         "price": 10
     },
     {
         "id": 1977,
-        "name": "family_man,_woman,_girl,_boy",
+        "name": "family_man_woman_girl_boy",
         "emoji": "👨‍👩‍👧‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_woman,_girl,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_woman_girl_boy.png",
         "price": 10
     },
     {
         "id": 1978,
-        "name": "family_man,_woman,_boy,_boy",
+        "name": "family_man_woman_boy_boy",
         "emoji": "👨‍👩‍👦‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_woman,_boy,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_woman_boy_boy.png",
         "price": 10
     },
     {
         "id": 1979,
-        "name": "family_man,_woman,_girl,_girl",
+        "name": "family_man_woman_girl_girl",
         "emoji": "👨‍👩‍👧‍👧",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_woman,_girl,_girl.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_woman_girl_girl.png",
         "price": 10
     },
     {
         "id": 1980,
-        "name": "family_man,_man,_boy",
+        "name": "family_man_man_boy",
         "emoji": "👨‍👨‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_man,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_man_boy.png",
         "price": 10
     },
     {
         "id": 1981,
-        "name": "family_man,_boy",
+        "name": "family_man_boy",
         "emoji": "👨‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_boy.png",
         "price": 10
     },
     {
         "id": 1982,
-        "name": "family_man,_boy,_boy",
+        "name": "family_man_boy_boy",
         "emoji": "👨‍👦‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_boy,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_boy_boy.png",
         "price": 10
     },
     {
         "id": 1983,
-        "name": "family_man,_girl",
+        "name": "family_man_girl",
         "emoji": "👨‍👧",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_girl.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_girl.png",
         "price": 10
     },
     {
         "id": 1984,
-        "name": "family_man,_girl,_boy",
+        "name": "family_man_girl_boy",
         "emoji": "👨‍👧‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_girl,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_girl_boy.png",
         "price": 10
     },
     {
         "id": 1985,
-        "name": "family_man,_girl,_girl",
+        "name": "family_man_girl_girl",
         "emoji": "👨‍👧‍👧",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man,_girl,_girl.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_man_girl_girl.png",
         "price": 10
     },
     {
         "id": 1986,
-        "name": "family_woman,_boy",
+        "name": "family_woman_boy",
         "emoji": "👩‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman_boy.png",
         "price": 10
     },
     {
         "id": 1987,
-        "name": "family_woman,_boy,_boy",
+        "name": "family_woman_boy_boy",
         "emoji": "👩‍👦‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman,_boy,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman_boy_boy.png",
         "price": 10
     },
     {
         "id": 1988,
-        "name": "family_woman,_girl",
+        "name": "family_woman_girl",
         "emoji": "👩‍👧",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman,_girl.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman_girl.png",
         "price": 10
     },
     {
         "id": 1989,
-        "name": "family_woman,_girl,_boy",
+        "name": "family_woman_girl_boy",
         "emoji": "👩‍👧‍👦",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman,_girl,_boy.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman_girl_boy.png",
         "price": 10
     },
     {
         "id": 1990,
-        "name": "family_woman,_girl,_girl",
+        "name": "family_woman_girl_girl",
         "emoji": "👩‍👧‍👧",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman,_girl,_girl.png",
+        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/family_woman_girl_girl.png",
         "price": 10
     },
     {
@@ -17963,3562 +17963,3555 @@
     },
     {
         "id": 2567,
-        "name": "piñata",
-        "emoji": "🪅",
-        "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/piñata.png",
-        "price": 10
-    },
-    {
-        "id": 2568,
         "name": "mirror_ball",
         "emoji": "🪩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mirror_ball.png",
         "price": 10
     },
     {
-        "id": 2569,
+        "id": 2568,
         "name": "nesting_dolls",
         "emoji": "🪆",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/nesting_dolls.png",
         "price": 10
     },
     {
-        "id": 2570,
+        "id": 2569,
         "name": "spade_suit",
         "emoji": "♠️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/spade_suit.png",
         "price": 10
     },
     {
-        "id": 2571,
+        "id": 2570,
         "name": "heart_suit",
         "emoji": "♥️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/heart_suit.png",
         "price": 10
     },
     {
-        "id": 2572,
+        "id": 2571,
         "name": "diamond_suit",
         "emoji": "♦️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/diamond_suit.png",
         "price": 10
     },
     {
-        "id": 2573,
+        "id": 2572,
         "name": "club_suit",
         "emoji": "♣️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/club_suit.png",
         "price": 10
     },
     {
-        "id": 2574,
+        "id": 2573,
         "name": "chess_pawn",
         "emoji": "♟️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chess_pawn.png",
         "price": 10
     },
     {
-        "id": 2575,
+        "id": 2574,
         "name": "joker",
         "emoji": "🃏",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/joker.png",
         "price": 10
     },
     {
-        "id": 2576,
+        "id": 2575,
         "name": "mahjong_red_dragon",
         "emoji": "🀄",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mahjong_red_dragon.png",
         "price": 10
     },
     {
-        "id": 2577,
+        "id": 2576,
         "name": "flower_playing_cards",
         "emoji": "🎴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/flower_playing_cards.png",
         "price": 10
     },
     {
-        "id": 2578,
+        "id": 2577,
         "name": "performing_arts",
         "emoji": "🎭",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/performing_arts.png",
         "price": 10
     },
     {
-        "id": 2579,
+        "id": 2578,
         "name": "framed_picture",
         "emoji": "🖼️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/framed_picture.png",
         "price": 10
     },
     {
-        "id": 2580,
+        "id": 2579,
         "name": "artist_palette",
         "emoji": "🎨",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/artist_palette.png",
         "price": 10
     },
     {
-        "id": 2581,
+        "id": 2580,
         "name": "thread",
         "emoji": "🧵",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/thread.png",
         "price": 10
     },
     {
-        "id": 2582,
+        "id": 2581,
         "name": "sewing_needle",
         "emoji": "🪡",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sewing_needle.png",
         "price": 10
     },
     {
-        "id": 2583,
+        "id": 2582,
         "name": "yarn",
         "emoji": "🧶",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/yarn.png",
         "price": 10
     },
     {
-        "id": 2584,
+        "id": 2583,
         "name": "knot",
         "emoji": "🪢",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/knot.png",
         "price": 10
     },
     {
-        "id": 2585,
+        "id": 2584,
         "name": "glasses",
         "emoji": "👓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/glasses.png",
         "price": 10
     },
     {
-        "id": 2586,
+        "id": 2585,
         "name": "sunglasses",
         "emoji": "🕶️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sunglasses.png",
         "price": 10
     },
     {
-        "id": 2587,
+        "id": 2586,
         "name": "goggles",
         "emoji": "🥽",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/goggles.png",
         "price": 10
     },
     {
-        "id": 2588,
+        "id": 2587,
         "name": "lab_coat",
         "emoji": "🥼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/lab_coat.png",
         "price": 10
     },
     {
-        "id": 2589,
+        "id": 2588,
         "name": "safety_vest",
         "emoji": "🦺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/safety_vest.png",
         "price": 10
     },
     {
-        "id": 2590,
+        "id": 2589,
         "name": "necktie",
         "emoji": "👔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/necktie.png",
         "price": 10
     },
     {
-        "id": 2591,
+        "id": 2590,
         "name": "t-shirt",
         "emoji": "👕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/t-shirt.png",
         "price": 10
     },
     {
-        "id": 2592,
+        "id": 2591,
         "name": "jeans",
         "emoji": "👖",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/jeans.png",
         "price": 10
     },
     {
-        "id": 2593,
+        "id": 2592,
         "name": "scarf",
         "emoji": "🧣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/scarf.png",
         "price": 10
     },
     {
-        "id": 2594,
+        "id": 2593,
         "name": "gloves",
         "emoji": "🧤",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/gloves.png",
         "price": 10
     },
     {
-        "id": 2595,
+        "id": 2594,
         "name": "coat",
         "emoji": "🧥",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/coat.png",
         "price": 10
     },
     {
-        "id": 2596,
+        "id": 2595,
         "name": "socks",
         "emoji": "🧦",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/socks.png",
         "price": 10
     },
     {
-        "id": 2597,
+        "id": 2596,
         "name": "dress",
         "emoji": "👗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dress.png",
         "price": 10
     },
     {
-        "id": 2598,
+        "id": 2597,
         "name": "kimono",
         "emoji": "👘",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/kimono.png",
         "price": 10
     },
     {
-        "id": 2599,
+        "id": 2598,
         "name": "sari",
         "emoji": "🥻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sari.png",
         "price": 10
     },
     {
-        "id": 2600,
+        "id": 2599,
         "name": "one-piece_swimsuit",
         "emoji": "🩱",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/one-piece_swimsuit.png",
         "price": 10
     },
     {
-        "id": 2601,
+        "id": 2600,
         "name": "briefs",
         "emoji": "🩲",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/briefs.png",
         "price": 10
     },
     {
-        "id": 2602,
+        "id": 2601,
         "name": "shorts",
         "emoji": "🩳",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/shorts.png",
         "price": 10
     },
     {
-        "id": 2603,
+        "id": 2602,
         "name": "bikini",
         "emoji": "👙",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bikini.png",
         "price": 10
     },
     {
-        "id": 2604,
+        "id": 2603,
         "name": "woman’s_clothes",
         "emoji": "👚",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman’s_clothes.png",
         "price": 10
     },
     {
-        "id": 2605,
+        "id": 2604,
         "name": "folding_hand_fan",
         "emoji": "🪭",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/folding_hand_fan.png",
         "price": 10
     },
     {
-        "id": 2606,
+        "id": 2605,
         "name": "purse",
         "emoji": "👛",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/purse.png",
         "price": 10
     },
     {
-        "id": 2607,
+        "id": 2606,
         "name": "handbag",
         "emoji": "👜",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/handbag.png",
         "price": 10
     },
     {
-        "id": 2608,
+        "id": 2607,
         "name": "clutch_bag",
         "emoji": "👝",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/clutch_bag.png",
         "price": 10
     },
     {
-        "id": 2609,
+        "id": 2608,
         "name": "shopping_bags",
         "emoji": "🛍️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/shopping_bags.png",
         "price": 10
     },
     {
-        "id": 2610,
+        "id": 2609,
         "name": "backpack",
         "emoji": "🎒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/backpack.png",
         "price": 10
     },
     {
-        "id": 2611,
+        "id": 2610,
         "name": "thong_sandal",
         "emoji": "🩴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/thong_sandal.png",
         "price": 10
     },
     {
-        "id": 2612,
+        "id": 2611,
         "name": "man’s_shoe",
         "emoji": "👞",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/man’s_shoe.png",
         "price": 10
     },
     {
-        "id": 2613,
+        "id": 2612,
         "name": "running_shoe",
         "emoji": "👟",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/running_shoe.png",
         "price": 10
     },
     {
-        "id": 2614,
+        "id": 2613,
         "name": "hiking_boot",
         "emoji": "🥾",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hiking_boot.png",
         "price": 10
     },
     {
-        "id": 2615,
+        "id": 2614,
         "name": "flat_shoe",
         "emoji": "🥿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/flat_shoe.png",
         "price": 10
     },
     {
-        "id": 2616,
+        "id": 2615,
         "name": "high-heeled_shoe",
         "emoji": "👠",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/high-heeled_shoe.png",
         "price": 10
     },
     {
-        "id": 2617,
+        "id": 2616,
         "name": "woman’s_sandal",
         "emoji": "👡",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman’s_sandal.png",
         "price": 10
     },
     {
-        "id": 2618,
+        "id": 2617,
         "name": "ballet_shoes",
         "emoji": "🩰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ballet_shoes.png",
         "price": 10
     },
     {
-        "id": 2619,
+        "id": 2618,
         "name": "woman’s_boot",
         "emoji": "👢",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman’s_boot.png",
         "price": 10
     },
     {
-        "id": 2620,
+        "id": 2619,
         "name": "hair_pick",
         "emoji": "🪮",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hair_pick.png",
         "price": 10
     },
     {
-        "id": 2621,
+        "id": 2620,
         "name": "crown",
         "emoji": "👑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/crown.png",
         "price": 10
     },
     {
-        "id": 2622,
+        "id": 2621,
         "name": "woman’s_hat",
         "emoji": "👒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/woman’s_hat.png",
         "price": 10
     },
     {
-        "id": 2623,
+        "id": 2622,
         "name": "top_hat",
         "emoji": "🎩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/top_hat.png",
         "price": 10
     },
     {
-        "id": 2624,
+        "id": 2623,
         "name": "graduation_cap",
         "emoji": "🎓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/graduation_cap.png",
         "price": 10
     },
     {
-        "id": 2625,
+        "id": 2624,
         "name": "billed_cap",
         "emoji": "🧢",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/billed_cap.png",
         "price": 10
     },
     {
-        "id": 2626,
+        "id": 2625,
         "name": "military_helmet",
         "emoji": "🪖",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/military_helmet.png",
         "price": 10
     },
     {
-        "id": 2627,
+        "id": 2626,
         "name": "rescue_worker’s_helmet",
         "emoji": "⛑️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/rescue_worker’s_helmet.png",
         "price": 10
     },
     {
-        "id": 2628,
+        "id": 2627,
         "name": "prayer_beads",
         "emoji": "📿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/prayer_beads.png",
         "price": 10
     },
     {
-        "id": 2629,
+        "id": 2628,
         "name": "lipstick",
         "emoji": "💄",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/lipstick.png",
         "price": 10
     },
     {
-        "id": 2630,
+        "id": 2629,
         "name": "ring",
         "emoji": "💍",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ring.png",
         "price": 10
     },
     {
-        "id": 2631,
+        "id": 2630,
         "name": "gem_stone",
         "emoji": "💎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/gem_stone.png",
         "price": 10
     },
     {
-        "id": 2632,
+        "id": 2631,
         "name": "muted_speaker",
         "emoji": "🔇",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/muted_speaker.png",
         "price": 10
     },
     {
-        "id": 2633,
+        "id": 2632,
         "name": "speaker_low_volume",
         "emoji": "🔈",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/speaker_low_volume.png",
         "price": 10
     },
     {
-        "id": 2634,
+        "id": 2633,
         "name": "speaker_medium_volume",
         "emoji": "🔉",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/speaker_medium_volume.png",
         "price": 10
     },
     {
-        "id": 2635,
+        "id": 2634,
         "name": "speaker_high_volume",
         "emoji": "🔊",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/speaker_high_volume.png",
         "price": 10
     },
     {
-        "id": 2636,
+        "id": 2635,
         "name": "loudspeaker",
         "emoji": "📢",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/loudspeaker.png",
         "price": 10
     },
     {
-        "id": 2637,
+        "id": 2636,
         "name": "megaphone",
         "emoji": "📣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/megaphone.png",
         "price": 10
     },
     {
-        "id": 2638,
+        "id": 2637,
         "name": "postal_horn",
         "emoji": "📯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/postal_horn.png",
         "price": 10
     },
     {
-        "id": 2639,
+        "id": 2638,
         "name": "bell",
         "emoji": "🔔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bell.png",
         "price": 10
     },
     {
-        "id": 2640,
+        "id": 2639,
         "name": "bell_with_slash",
         "emoji": "🔕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bell_with_slash.png",
         "price": 10
     },
     {
-        "id": 2641,
+        "id": 2640,
         "name": "musical_score",
         "emoji": "🎼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/musical_score.png",
         "price": 10
     },
     {
-        "id": 2642,
+        "id": 2641,
         "name": "musical_note",
         "emoji": "🎵",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/musical_note.png",
         "price": 10
     },
     {
-        "id": 2643,
+        "id": 2642,
         "name": "musical_notes",
         "emoji": "🎶",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/musical_notes.png",
         "price": 10
     },
     {
-        "id": 2644,
+        "id": 2643,
         "name": "studio_microphone",
         "emoji": "🎙️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/studio_microphone.png",
         "price": 10
     },
     {
-        "id": 2645,
+        "id": 2644,
         "name": "level_slider",
         "emoji": "🎚️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/level_slider.png",
         "price": 10
     },
     {
-        "id": 2646,
+        "id": 2645,
         "name": "control_knobs",
         "emoji": "🎛️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/control_knobs.png",
         "price": 10
     },
     {
-        "id": 2647,
+        "id": 2646,
         "name": "microphone",
         "emoji": "🎤",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/microphone.png",
         "price": 10
     },
     {
-        "id": 2648,
+        "id": 2647,
         "name": "headphone",
         "emoji": "🎧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/headphone.png",
         "price": 10
     },
     {
-        "id": 2649,
+        "id": 2648,
         "name": "radio",
         "emoji": "📻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/radio.png",
         "price": 10
     },
     {
-        "id": 2650,
+        "id": 2649,
         "name": "saxophone",
         "emoji": "🎷",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/saxophone.png",
         "price": 10
     },
     {
-        "id": 2651,
+        "id": 2650,
         "name": "accordion",
         "emoji": "🪗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/accordion.png",
         "price": 10
     },
     {
-        "id": 2652,
+        "id": 2651,
         "name": "guitar",
         "emoji": "🎸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/guitar.png",
         "price": 10
     },
     {
-        "id": 2653,
+        "id": 2652,
         "name": "musical_keyboard",
         "emoji": "🎹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/musical_keyboard.png",
         "price": 10
     },
     {
-        "id": 2654,
+        "id": 2653,
         "name": "trumpet",
         "emoji": "🎺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/trumpet.png",
         "price": 10
     },
     {
-        "id": 2655,
+        "id": 2654,
         "name": "violin",
         "emoji": "🎻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/violin.png",
         "price": 10
     },
     {
-        "id": 2656,
+        "id": 2655,
         "name": "banjo",
         "emoji": "🪕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/banjo.png",
         "price": 10
     },
     {
-        "id": 2657,
+        "id": 2656,
         "name": "drum",
         "emoji": "🥁",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/drum.png",
         "price": 10
     },
     {
-        "id": 2658,
+        "id": 2657,
         "name": "long_drum",
         "emoji": "🪘",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/long_drum.png",
         "price": 10
     },
     {
-        "id": 2659,
+        "id": 2658,
         "name": "maracas",
         "emoji": "🪇",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/maracas.png",
         "price": 10
     },
     {
-        "id": 2660,
+        "id": 2659,
         "name": "flute",
         "emoji": "🪈",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/flute.png",
         "price": 10
     },
     {
-        "id": 2661,
+        "id": 2660,
         "name": "mobile_phone",
         "emoji": "📱",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mobile_phone.png",
         "price": 10
     },
     {
-        "id": 2662,
+        "id": 2661,
         "name": "mobile_phone_with_arrow",
         "emoji": "📲",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mobile_phone_with_arrow.png",
         "price": 10
     },
     {
-        "id": 2663,
+        "id": 2662,
         "name": "telephone",
         "emoji": "☎️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/telephone.png",
         "price": 10
     },
     {
-        "id": 2664,
+        "id": 2663,
         "name": "telephone_receiver",
         "emoji": "📞",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/telephone_receiver.png",
         "price": 10
     },
     {
-        "id": 2665,
+        "id": 2664,
         "name": "pager",
         "emoji": "📟",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pager.png",
         "price": 10
     },
     {
-        "id": 2666,
+        "id": 2665,
         "name": "fax_machine",
         "emoji": "📠",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fax_machine.png",
         "price": 10
     },
     {
-        "id": 2667,
+        "id": 2666,
         "name": "battery",
         "emoji": "🔋",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/battery.png",
         "price": 10
     },
     {
-        "id": 2668,
+        "id": 2667,
         "name": "low_battery",
         "emoji": "🪫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/low_battery.png",
         "price": 10
     },
     {
-        "id": 2669,
+        "id": 2668,
         "name": "electric_plug",
         "emoji": "🔌",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/electric_plug.png",
         "price": 10
     },
     {
-        "id": 2670,
+        "id": 2669,
         "name": "laptop",
         "emoji": "💻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/laptop.png",
         "price": 10
     },
     {
-        "id": 2671,
+        "id": 2670,
         "name": "desktop_computer",
         "emoji": "🖥️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/desktop_computer.png",
         "price": 10
     },
     {
-        "id": 2672,
+        "id": 2671,
         "name": "printer",
         "emoji": "🖨️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/printer.png",
         "price": 10
     },
     {
-        "id": 2673,
+        "id": 2672,
         "name": "keyboard",
         "emoji": "⌨️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keyboard.png",
         "price": 10
     },
     {
-        "id": 2674,
+        "id": 2673,
         "name": "computer_mouse",
         "emoji": "🖱️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/computer_mouse.png",
         "price": 10
     },
     {
-        "id": 2675,
+        "id": 2674,
         "name": "trackball",
         "emoji": "🖲️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/trackball.png",
         "price": 10
     },
     {
-        "id": 2676,
+        "id": 2675,
         "name": "computer_disk",
         "emoji": "💽",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/computer_disk.png",
         "price": 10
     },
     {
-        "id": 2677,
+        "id": 2676,
         "name": "floppy_disk",
         "emoji": "💾",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/floppy_disk.png",
         "price": 10
     },
     {
-        "id": 2678,
+        "id": 2677,
         "name": "optical_disk",
         "emoji": "💿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/optical_disk.png",
         "price": 10
     },
     {
-        "id": 2679,
+        "id": 2678,
         "name": "dvd",
         "emoji": "📀",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dvd.png",
         "price": 10
     },
     {
-        "id": 2680,
+        "id": 2679,
         "name": "abacus",
         "emoji": "🧮",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/abacus.png",
         "price": 10
     },
     {
-        "id": 2681,
+        "id": 2680,
         "name": "movie_camera",
         "emoji": "🎥",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/movie_camera.png",
         "price": 10
     },
     {
-        "id": 2682,
+        "id": 2681,
         "name": "film_frames",
         "emoji": "🎞️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/film_frames.png",
         "price": 10
     },
     {
-        "id": 2683,
+        "id": 2682,
         "name": "film_projector",
         "emoji": "📽️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/film_projector.png",
         "price": 10
     },
     {
-        "id": 2684,
+        "id": 2683,
         "name": "clapper_board",
         "emoji": "🎬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/clapper_board.png",
         "price": 10
     },
     {
-        "id": 2685,
+        "id": 2684,
         "name": "television",
         "emoji": "📺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/television.png",
         "price": 10
     },
     {
-        "id": 2686,
+        "id": 2685,
         "name": "camera",
         "emoji": "📷",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/camera.png",
         "price": 10
     },
     {
-        "id": 2687,
+        "id": 2686,
         "name": "camera_with_flash",
         "emoji": "📸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/camera_with_flash.png",
         "price": 10
     },
     {
-        "id": 2688,
+        "id": 2687,
         "name": "video_camera",
         "emoji": "📹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/video_camera.png",
         "price": 10
     },
     {
-        "id": 2689,
+        "id": 2688,
         "name": "videocassette",
         "emoji": "📼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/videocassette.png",
         "price": 10
     },
     {
-        "id": 2690,
+        "id": 2689,
         "name": "magnifying_glass_tilted_left",
         "emoji": "🔍",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/magnifying_glass_tilted_left.png",
         "price": 10
     },
     {
-        "id": 2691,
+        "id": 2690,
         "name": "magnifying_glass_tilted_right",
         "emoji": "🔎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/magnifying_glass_tilted_right.png",
         "price": 10
     },
     {
-        "id": 2692,
+        "id": 2691,
         "name": "candle",
         "emoji": "🕯️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/candle.png",
         "price": 10
     },
     {
-        "id": 2693,
+        "id": 2692,
         "name": "light_bulb",
         "emoji": "💡",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/light_bulb.png",
         "price": 10
     },
     {
-        "id": 2694,
+        "id": 2693,
         "name": "flashlight",
         "emoji": "🔦",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/flashlight.png",
         "price": 10
     },
     {
-        "id": 2695,
+        "id": 2694,
         "name": "red_paper_lantern",
         "emoji": "🏮",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_paper_lantern.png",
         "price": 10
     },
     {
-        "id": 2696,
+        "id": 2695,
         "name": "diya_lamp",
         "emoji": "🪔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/diya_lamp.png",
         "price": 10
     },
     {
-        "id": 2697,
+        "id": 2696,
         "name": "notebook_with_decorative_cover",
         "emoji": "📔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/notebook_with_decorative_cover.png",
         "price": 10
     },
     {
-        "id": 2698,
+        "id": 2697,
         "name": "closed_book",
         "emoji": "📕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/closed_book.png",
         "price": 10
     },
     {
-        "id": 2699,
+        "id": 2698,
         "name": "open_book",
         "emoji": "📖",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/open_book.png",
         "price": 10
     },
     {
-        "id": 2700,
+        "id": 2699,
         "name": "green_book",
         "emoji": "📗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/green_book.png",
         "price": 10
     },
     {
-        "id": 2701,
+        "id": 2700,
         "name": "blue_book",
         "emoji": "📘",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/blue_book.png",
         "price": 10
     },
     {
-        "id": 2702,
+        "id": 2701,
         "name": "orange_book",
         "emoji": "📙",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/orange_book.png",
         "price": 10
     },
     {
-        "id": 2703,
+        "id": 2702,
         "name": "books",
         "emoji": "📚",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/books.png",
         "price": 10
     },
     {
-        "id": 2704,
+        "id": 2703,
         "name": "notebook",
         "emoji": "📓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/notebook.png",
         "price": 10
     },
     {
-        "id": 2705,
+        "id": 2704,
         "name": "ledger",
         "emoji": "📒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ledger.png",
         "price": 10
     },
     {
-        "id": 2706,
+        "id": 2705,
         "name": "page_with_curl",
         "emoji": "📃",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/page_with_curl.png",
         "price": 10
     },
     {
-        "id": 2707,
+        "id": 2706,
         "name": "scroll",
         "emoji": "📜",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/scroll.png",
         "price": 10
     },
     {
-        "id": 2708,
+        "id": 2707,
         "name": "page_facing_up",
         "emoji": "📄",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/page_facing_up.png",
         "price": 10
     },
     {
-        "id": 2709,
+        "id": 2708,
         "name": "newspaper",
         "emoji": "📰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/newspaper.png",
         "price": 10
     },
     {
-        "id": 2710,
+        "id": 2709,
         "name": "rolled-up_newspaper",
         "emoji": "🗞️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/rolled-up_newspaper.png",
         "price": 10
     },
     {
-        "id": 2711,
+        "id": 2710,
         "name": "bookmark_tabs",
         "emoji": "📑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bookmark_tabs.png",
         "price": 10
     },
     {
-        "id": 2712,
+        "id": 2711,
         "name": "bookmark",
         "emoji": "🔖",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bookmark.png",
         "price": 10
     },
     {
-        "id": 2713,
+        "id": 2712,
         "name": "label",
         "emoji": "🏷️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/label.png",
         "price": 10
     },
     {
-        "id": 2714,
+        "id": 2713,
         "name": "money_bag",
         "emoji": "💰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/money_bag.png",
         "price": 10
     },
     {
-        "id": 2715,
+        "id": 2714,
         "name": "coin",
         "emoji": "🪙",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/coin.png",
         "price": 10
     },
     {
-        "id": 2716,
+        "id": 2715,
         "name": "yen_banknote",
         "emoji": "💴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/yen_banknote.png",
         "price": 10
     },
     {
-        "id": 2717,
+        "id": 2716,
         "name": "dollar_banknote",
         "emoji": "💵",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dollar_banknote.png",
         "price": 10
     },
     {
-        "id": 2718,
+        "id": 2717,
         "name": "euro_banknote",
         "emoji": "💶",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/euro_banknote.png",
         "price": 10
     },
     {
-        "id": 2719,
+        "id": 2718,
         "name": "pound_banknote",
         "emoji": "💷",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pound_banknote.png",
         "price": 10
     },
     {
-        "id": 2720,
+        "id": 2719,
         "name": "money_with_wings",
         "emoji": "💸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/money_with_wings.png",
         "price": 10
     },
     {
-        "id": 2721,
+        "id": 2720,
         "name": "credit_card",
         "emoji": "💳",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/credit_card.png",
         "price": 10
     },
     {
-        "id": 2722,
+        "id": 2721,
         "name": "receipt",
         "emoji": "🧾",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/receipt.png",
         "price": 10
     },
     {
-        "id": 2723,
+        "id": 2722,
         "name": "chart_increasing_with_yen",
         "emoji": "💹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chart_increasing_with_yen.png",
         "price": 10
     },
     {
-        "id": 2724,
+        "id": 2723,
         "name": "envelope",
         "emoji": "✉️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/envelope.png",
         "price": 10
     },
     {
-        "id": 2725,
+        "id": 2724,
         "name": "e-mail",
         "emoji": "📧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/e-mail.png",
         "price": 10
     },
     {
-        "id": 2726,
+        "id": 2725,
         "name": "incoming_envelope",
         "emoji": "📨",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/incoming_envelope.png",
         "price": 10
     },
     {
-        "id": 2727,
+        "id": 2726,
         "name": "envelope_with_arrow",
         "emoji": "📩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/envelope_with_arrow.png",
         "price": 10
     },
     {
-        "id": 2728,
+        "id": 2727,
         "name": "outbox_tray",
         "emoji": "📤",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/outbox_tray.png",
         "price": 10
     },
     {
-        "id": 2729,
+        "id": 2728,
         "name": "inbox_tray",
         "emoji": "📥",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/inbox_tray.png",
         "price": 10
     },
     {
-        "id": 2730,
+        "id": 2729,
         "name": "package",
         "emoji": "📦",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/package.png",
         "price": 10
     },
     {
-        "id": 2731,
+        "id": 2730,
         "name": "closed_mailbox_with_raised_flag",
         "emoji": "📫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/closed_mailbox_with_raised_flag.png",
         "price": 10
     },
     {
-        "id": 2732,
+        "id": 2731,
         "name": "closed_mailbox_with_lowered_flag",
         "emoji": "📪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/closed_mailbox_with_lowered_flag.png",
         "price": 10
     },
     {
-        "id": 2733,
+        "id": 2732,
         "name": "open_mailbox_with_raised_flag",
         "emoji": "📬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/open_mailbox_with_raised_flag.png",
         "price": 10
     },
     {
-        "id": 2734,
+        "id": 2733,
         "name": "open_mailbox_with_lowered_flag",
         "emoji": "📭",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/open_mailbox_with_lowered_flag.png",
         "price": 10
     },
     {
-        "id": 2735,
+        "id": 2734,
         "name": "postbox",
         "emoji": "📮",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/postbox.png",
         "price": 10
     },
     {
-        "id": 2736,
+        "id": 2735,
         "name": "ballot_box_with_ballot",
         "emoji": "🗳️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ballot_box_with_ballot.png",
         "price": 10
     },
     {
-        "id": 2737,
+        "id": 2736,
         "name": "pencil",
         "emoji": "✏️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pencil.png",
         "price": 10
     },
     {
-        "id": 2738,
+        "id": 2737,
         "name": "black_nib",
         "emoji": "✒️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_nib.png",
         "price": 10
     },
     {
-        "id": 2739,
+        "id": 2738,
         "name": "fountain_pen",
         "emoji": "🖋️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fountain_pen.png",
         "price": 10
     },
     {
-        "id": 2740,
+        "id": 2739,
         "name": "pen",
         "emoji": "🖊️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pen.png",
         "price": 10
     },
     {
-        "id": 2741,
+        "id": 2740,
         "name": "paintbrush",
         "emoji": "🖌️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/paintbrush.png",
         "price": 10
     },
     {
-        "id": 2742,
+        "id": 2741,
         "name": "crayon",
         "emoji": "🖍️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/crayon.png",
         "price": 10
     },
     {
-        "id": 2743,
+        "id": 2742,
         "name": "memo",
         "emoji": "📝",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/memo.png",
         "price": 10
     },
     {
-        "id": 2744,
+        "id": 2743,
         "name": "briefcase",
         "emoji": "💼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/briefcase.png",
         "price": 10
     },
     {
-        "id": 2745,
+        "id": 2744,
         "name": "file_folder",
         "emoji": "📁",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/file_folder.png",
         "price": 10
     },
     {
-        "id": 2746,
+        "id": 2745,
         "name": "open_file_folder",
         "emoji": "📂",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/open_file_folder.png",
         "price": 10
     },
     {
-        "id": 2747,
+        "id": 2746,
         "name": "card_index_dividers",
         "emoji": "🗂️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/card_index_dividers.png",
         "price": 10
     },
     {
-        "id": 2748,
+        "id": 2747,
         "name": "calendar",
         "emoji": "📅",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/calendar.png",
         "price": 10
     },
     {
-        "id": 2749,
+        "id": 2748,
         "name": "tear-off_calendar",
         "emoji": "📆",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/tear-off_calendar.png",
         "price": 10
     },
     {
-        "id": 2750,
+        "id": 2749,
         "name": "spiral_notepad",
         "emoji": "🗒️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/spiral_notepad.png",
         "price": 10
     },
     {
-        "id": 2751,
+        "id": 2750,
         "name": "spiral_calendar",
         "emoji": "🗓️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/spiral_calendar.png",
         "price": 10
     },
     {
-        "id": 2752,
+        "id": 2751,
         "name": "card_index",
         "emoji": "📇",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/card_index.png",
         "price": 10
     },
     {
-        "id": 2753,
+        "id": 2752,
         "name": "chart_increasing",
         "emoji": "📈",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chart_increasing.png",
         "price": 10
     },
     {
-        "id": 2754,
+        "id": 2753,
         "name": "chart_decreasing",
         "emoji": "📉",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chart_decreasing.png",
         "price": 10
     },
     {
-        "id": 2755,
+        "id": 2754,
         "name": "bar_chart",
         "emoji": "📊",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bar_chart.png",
         "price": 10
     },
     {
-        "id": 2756,
+        "id": 2755,
         "name": "clipboard",
         "emoji": "📋",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/clipboard.png",
         "price": 10
     },
     {
-        "id": 2757,
+        "id": 2756,
         "name": "pushpin",
         "emoji": "📌",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pushpin.png",
         "price": 10
     },
     {
-        "id": 2758,
+        "id": 2757,
         "name": "round_pushpin",
         "emoji": "📍",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/round_pushpin.png",
         "price": 10
     },
     {
-        "id": 2759,
+        "id": 2758,
         "name": "paperclip",
         "emoji": "📎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/paperclip.png",
         "price": 10
     },
     {
-        "id": 2760,
+        "id": 2759,
         "name": "linked_paperclips",
         "emoji": "🖇️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/linked_paperclips.png",
         "price": 10
     },
     {
-        "id": 2761,
+        "id": 2760,
         "name": "straight_ruler",
         "emoji": "📏",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/straight_ruler.png",
         "price": 10
     },
     {
-        "id": 2762,
+        "id": 2761,
         "name": "triangular_ruler",
         "emoji": "📐",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/triangular_ruler.png",
         "price": 10
     },
     {
-        "id": 2763,
+        "id": 2762,
         "name": "scissors",
         "emoji": "✂️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/scissors.png",
         "price": 10
     },
     {
-        "id": 2764,
+        "id": 2763,
         "name": "card_file_box",
         "emoji": "🗃️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/card_file_box.png",
         "price": 10
     },
     {
-        "id": 2765,
+        "id": 2764,
         "name": "file_cabinet",
         "emoji": "🗄️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/file_cabinet.png",
         "price": 10
     },
     {
-        "id": 2766,
+        "id": 2765,
         "name": "wastebasket",
         "emoji": "🗑️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/wastebasket.png",
         "price": 10
     },
     {
-        "id": 2767,
+        "id": 2766,
         "name": "locked",
         "emoji": "🔒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/locked.png",
         "price": 10
     },
     {
-        "id": 2768,
+        "id": 2767,
         "name": "unlocked",
         "emoji": "🔓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/unlocked.png",
         "price": 10
     },
     {
-        "id": 2769,
+        "id": 2768,
         "name": "locked_with_pen",
         "emoji": "🔏",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/locked_with_pen.png",
         "price": 10
     },
     {
-        "id": 2770,
+        "id": 2769,
         "name": "locked_with_key",
         "emoji": "🔐",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/locked_with_key.png",
         "price": 10
     },
     {
-        "id": 2771,
+        "id": 2770,
         "name": "key",
         "emoji": "🔑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/key.png",
         "price": 10
     },
     {
-        "id": 2772,
+        "id": 2771,
         "name": "old_key",
         "emoji": "🗝️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/old_key.png",
         "price": 10
     },
     {
-        "id": 2773,
+        "id": 2772,
         "name": "hammer",
         "emoji": "🔨",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hammer.png",
         "price": 10
     },
     {
-        "id": 2774,
+        "id": 2773,
         "name": "axe",
         "emoji": "🪓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/axe.png",
         "price": 10
     },
     {
-        "id": 2775,
+        "id": 2774,
         "name": "pick",
         "emoji": "⛏️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pick.png",
         "price": 10
     },
     {
-        "id": 2776,
+        "id": 2775,
         "name": "hammer_and_pick",
         "emoji": "⚒️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hammer_and_pick.png",
         "price": 10
     },
     {
-        "id": 2777,
+        "id": 2776,
         "name": "hammer_and_wrench",
         "emoji": "🛠️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hammer_and_wrench.png",
         "price": 10
     },
     {
-        "id": 2778,
+        "id": 2777,
         "name": "dagger",
         "emoji": "🗡️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dagger.png",
         "price": 10
     },
     {
-        "id": 2779,
+        "id": 2778,
         "name": "crossed_swords",
         "emoji": "⚔️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/crossed_swords.png",
         "price": 10
     },
     {
-        "id": 2780,
+        "id": 2779,
         "name": "bomb",
         "emoji": "💣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bomb.png",
         "price": 10
     },
     {
-        "id": 2781,
+        "id": 2780,
         "name": "boomerang",
         "emoji": "🪃",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/boomerang.png",
         "price": 10
     },
     {
-        "id": 2782,
+        "id": 2781,
         "name": "bow_and_arrow",
         "emoji": "🏹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bow_and_arrow.png",
         "price": 10
     },
     {
-        "id": 2783,
+        "id": 2782,
         "name": "shield",
         "emoji": "🛡️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/shield.png",
         "price": 10
     },
     {
-        "id": 2784,
+        "id": 2783,
         "name": "carpentry_saw",
         "emoji": "🪚",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/carpentry_saw.png",
         "price": 10
     },
     {
-        "id": 2785,
+        "id": 2784,
         "name": "wrench",
         "emoji": "🔧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/wrench.png",
         "price": 10
     },
     {
-        "id": 2786,
+        "id": 2785,
         "name": "screwdriver",
         "emoji": "🪛",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/screwdriver.png",
         "price": 10
     },
     {
-        "id": 2787,
+        "id": 2786,
         "name": "nut_and_bolt",
         "emoji": "🔩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/nut_and_bolt.png",
         "price": 10
     },
     {
-        "id": 2788,
+        "id": 2787,
         "name": "gear",
         "emoji": "⚙️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/gear.png",
         "price": 10
     },
     {
-        "id": 2789,
+        "id": 2788,
         "name": "clamp",
         "emoji": "🗜️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/clamp.png",
         "price": 10
     },
     {
-        "id": 2790,
+        "id": 2789,
         "name": "balance_scale",
         "emoji": "⚖️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/balance_scale.png",
         "price": 10
     },
     {
-        "id": 2791,
+        "id": 2790,
         "name": "white_cane",
         "emoji": "🦯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_cane.png",
         "price": 10
     },
     {
-        "id": 2792,
+        "id": 2791,
         "name": "link",
         "emoji": "🔗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/link.png",
         "price": 10
     },
     {
-        "id": 2793,
+        "id": 2792,
         "name": "chains",
         "emoji": "⛓️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chains.png",
         "price": 10
     },
     {
-        "id": 2794,
+        "id": 2793,
         "name": "hook",
         "emoji": "🪝",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hook.png",
         "price": 10
     },
     {
-        "id": 2795,
+        "id": 2794,
         "name": "toolbox",
         "emoji": "🧰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/toolbox.png",
         "price": 10
     },
     {
-        "id": 2796,
+        "id": 2795,
         "name": "magnet",
         "emoji": "🧲",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/magnet.png",
         "price": 10
     },
     {
-        "id": 2797,
+        "id": 2796,
         "name": "ladder",
         "emoji": "🪜",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ladder.png",
         "price": 10
     },
     {
-        "id": 2798,
+        "id": 2797,
         "name": "alembic",
         "emoji": "⚗️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/alembic.png",
         "price": 10
     },
     {
-        "id": 2799,
+        "id": 2798,
         "name": "test_tube",
         "emoji": "🧪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/test_tube.png",
         "price": 10
     },
     {
-        "id": 2800,
+        "id": 2799,
         "name": "petri_dish",
         "emoji": "🧫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/petri_dish.png",
         "price": 10
     },
     {
-        "id": 2801,
+        "id": 2800,
         "name": "dna",
         "emoji": "🧬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dna.png",
         "price": 10
     },
     {
-        "id": 2802,
+        "id": 2801,
         "name": "microscope",
         "emoji": "🔬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/microscope.png",
         "price": 10
     },
     {
-        "id": 2803,
+        "id": 2802,
         "name": "telescope",
         "emoji": "🔭",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/telescope.png",
         "price": 10
     },
     {
-        "id": 2804,
+        "id": 2803,
         "name": "satellite_antenna",
         "emoji": "📡",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/satellite_antenna.png",
         "price": 10
     },
     {
-        "id": 2805,
+        "id": 2804,
         "name": "syringe",
         "emoji": "💉",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/syringe.png",
         "price": 10
     },
     {
-        "id": 2806,
+        "id": 2805,
         "name": "drop_of_blood",
         "emoji": "🩸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/drop_of_blood.png",
         "price": 10
     },
     {
-        "id": 2807,
+        "id": 2806,
         "name": "pill",
         "emoji": "💊",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pill.png",
         "price": 10
     },
     {
-        "id": 2808,
+        "id": 2807,
         "name": "adhesive_bandage",
         "emoji": "🩹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/adhesive_bandage.png",
         "price": 10
     },
     {
-        "id": 2809,
+        "id": 2808,
         "name": "crutch",
         "emoji": "🩼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/crutch.png",
         "price": 10
     },
     {
-        "id": 2810,
+        "id": 2809,
         "name": "stethoscope",
         "emoji": "🩺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/stethoscope.png",
         "price": 10
     },
     {
-        "id": 2811,
+        "id": 2810,
         "name": "x-ray",
         "emoji": "🩻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/x-ray.png",
         "price": 10
     },
     {
-        "id": 2812,
+        "id": 2811,
         "name": "door",
         "emoji": "🚪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/door.png",
         "price": 10
     },
     {
-        "id": 2813,
+        "id": 2812,
         "name": "elevator",
         "emoji": "🛗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/elevator.png",
         "price": 10
     },
     {
-        "id": 2814,
+        "id": 2813,
         "name": "mirror",
         "emoji": "🪞",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mirror.png",
         "price": 10
     },
     {
-        "id": 2815,
+        "id": 2814,
         "name": "window",
         "emoji": "🪟",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/window.png",
         "price": 10
     },
     {
-        "id": 2816,
+        "id": 2815,
         "name": "bed",
         "emoji": "🛏️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bed.png",
         "price": 10
     },
     {
-        "id": 2817,
+        "id": 2816,
         "name": "couch_and_lamp",
         "emoji": "🛋️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/couch_and_lamp.png",
         "price": 10
     },
     {
-        "id": 2818,
+        "id": 2817,
         "name": "chair",
         "emoji": "🪑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chair.png",
         "price": 10
     },
     {
-        "id": 2819,
+        "id": 2818,
         "name": "toilet",
         "emoji": "🚽",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/toilet.png",
         "price": 10
     },
     {
-        "id": 2820,
+        "id": 2819,
         "name": "plunger",
         "emoji": "🪠",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/plunger.png",
         "price": 10
     },
     {
-        "id": 2821,
+        "id": 2820,
         "name": "shower",
         "emoji": "🚿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/shower.png",
         "price": 10
     },
     {
-        "id": 2822,
+        "id": 2821,
         "name": "bathtub",
         "emoji": "🛁",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bathtub.png",
         "price": 10
     },
     {
-        "id": 2823,
+        "id": 2822,
         "name": "mouse_trap",
         "emoji": "🪤",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mouse_trap.png",
         "price": 10
     },
     {
-        "id": 2824,
+        "id": 2823,
         "name": "razor",
         "emoji": "🪒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/razor.png",
         "price": 10
     },
     {
-        "id": 2825,
+        "id": 2824,
         "name": "lotion_bottle",
         "emoji": "🧴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/lotion_bottle.png",
         "price": 10
     },
     {
-        "id": 2826,
+        "id": 2825,
         "name": "safety_pin",
         "emoji": "🧷",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/safety_pin.png",
         "price": 10
     },
     {
-        "id": 2827,
+        "id": 2826,
         "name": "broom",
         "emoji": "🧹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/broom.png",
         "price": 10
     },
     {
-        "id": 2828,
+        "id": 2827,
         "name": "basket",
         "emoji": "🧺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/basket.png",
         "price": 10
     },
     {
-        "id": 2829,
+        "id": 2828,
         "name": "roll_of_paper",
         "emoji": "🧻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/roll_of_paper.png",
         "price": 10
     },
     {
-        "id": 2830,
+        "id": 2829,
         "name": "bucket",
         "emoji": "🪣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bucket.png",
         "price": 10
     },
     {
-        "id": 2831,
+        "id": 2830,
         "name": "soap",
         "emoji": "🧼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/soap.png",
         "price": 10
     },
     {
-        "id": 2832,
+        "id": 2831,
         "name": "bubbles",
         "emoji": "🫧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bubbles.png",
         "price": 10
     },
     {
-        "id": 2833,
+        "id": 2832,
         "name": "toothbrush",
         "emoji": "🪥",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/toothbrush.png",
         "price": 10
     },
     {
-        "id": 2834,
+        "id": 2833,
         "name": "sponge",
         "emoji": "🧽",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sponge.png",
         "price": 10
     },
     {
-        "id": 2835,
+        "id": 2834,
         "name": "fire_extinguisher",
         "emoji": "🧯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fire_extinguisher.png",
         "price": 10
     },
     {
-        "id": 2836,
+        "id": 2835,
         "name": "shopping_cart",
         "emoji": "🛒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/shopping_cart.png",
         "price": 10
     },
     {
-        "id": 2837,
+        "id": 2836,
         "name": "cigarette",
         "emoji": "🚬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cigarette.png",
         "price": 10
     },
     {
-        "id": 2838,
+        "id": 2837,
         "name": "coffin",
         "emoji": "⚰️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/coffin.png",
         "price": 10
     },
     {
-        "id": 2839,
+        "id": 2838,
         "name": "headstone",
         "emoji": "🪦",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/headstone.png",
         "price": 10
     },
     {
-        "id": 2840,
+        "id": 2839,
         "name": "funeral_urn",
         "emoji": "⚱️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/funeral_urn.png",
         "price": 10
     },
     {
-        "id": 2841,
+        "id": 2840,
         "name": "nazar_amulet",
         "emoji": "🧿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/nazar_amulet.png",
         "price": 10
     },
     {
-        "id": 2842,
+        "id": 2841,
         "name": "hamsa",
         "emoji": "🪬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hamsa.png",
         "price": 10
     },
     {
-        "id": 2843,
+        "id": 2842,
         "name": "moai",
         "emoji": "🗿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/moai.png",
         "price": 10
     },
     {
-        "id": 2844,
+        "id": 2843,
         "name": "placard",
         "emoji": "🪧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/placard.png",
         "price": 10
     },
     {
-        "id": 2845,
+        "id": 2844,
         "name": "identification_card",
         "emoji": "🪪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/identification_card.png",
         "price": 10
     },
     {
-        "id": 2846,
+        "id": 2845,
         "name": "atm_sign",
         "emoji": "🏧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/atm_sign.png",
         "price": 10
     },
     {
-        "id": 2847,
+        "id": 2846,
         "name": "litter_in_bin_sign",
         "emoji": "🚮",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/litter_in_bin_sign.png",
         "price": 10
     },
     {
-        "id": 2848,
+        "id": 2847,
         "name": "potable_water",
         "emoji": "🚰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/potable_water.png",
         "price": 10
     },
     {
-        "id": 2849,
+        "id": 2848,
         "name": "wheelchair_symbol",
         "emoji": "♿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/wheelchair_symbol.png",
         "price": 10
     },
     {
-        "id": 2850,
+        "id": 2849,
         "name": "men’s_room",
         "emoji": "🚹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/men’s_room.png",
         "price": 10
     },
     {
-        "id": 2851,
+        "id": 2850,
         "name": "women’s_room",
         "emoji": "🚺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/women’s_room.png",
         "price": 10
     },
     {
-        "id": 2852,
+        "id": 2851,
         "name": "restroom",
         "emoji": "🚻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/restroom.png",
         "price": 10
     },
     {
-        "id": 2853,
+        "id": 2852,
         "name": "baby_symbol",
         "emoji": "🚼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/baby_symbol.png",
         "price": 10
     },
     {
-        "id": 2854,
+        "id": 2853,
         "name": "water_closet",
         "emoji": "🚾",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/water_closet.png",
         "price": 10
     },
     {
-        "id": 2855,
+        "id": 2854,
         "name": "passport_control",
         "emoji": "🛂",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/passport_control.png",
         "price": 10
     },
     {
-        "id": 2856,
+        "id": 2855,
         "name": "customs",
         "emoji": "🛃",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/customs.png",
         "price": 10
     },
     {
-        "id": 2857,
+        "id": 2856,
         "name": "baggage_claim",
         "emoji": "🛄",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/baggage_claim.png",
         "price": 10
     },
     {
-        "id": 2858,
+        "id": 2857,
         "name": "left_luggage",
         "emoji": "🛅",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/left_luggage.png",
         "price": 10
     },
     {
-        "id": 2859,
+        "id": 2858,
         "name": "warning",
         "emoji": "⚠️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/warning.png",
         "price": 10
     },
     {
-        "id": 2860,
+        "id": 2859,
         "name": "children_crossing",
         "emoji": "🚸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/children_crossing.png",
         "price": 10
     },
     {
-        "id": 2861,
+        "id": 2860,
         "name": "no_entry",
         "emoji": "⛔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_entry.png",
         "price": 10
     },
     {
-        "id": 2862,
+        "id": 2861,
         "name": "prohibited",
         "emoji": "🚫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/prohibited.png",
         "price": 10
     },
     {
-        "id": 2863,
+        "id": 2862,
         "name": "no_bicycles",
         "emoji": "🚳",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_bicycles.png",
         "price": 10
     },
     {
-        "id": 2864,
+        "id": 2863,
         "name": "no_smoking",
         "emoji": "🚭",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_smoking.png",
         "price": 10
     },
     {
-        "id": 2865,
+        "id": 2864,
         "name": "no_littering",
         "emoji": "🚯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_littering.png",
         "price": 10
     },
     {
-        "id": 2866,
+        "id": 2865,
         "name": "non-potable_water",
         "emoji": "🚱",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/non-potable_water.png",
         "price": 10
     },
     {
-        "id": 2867,
+        "id": 2866,
         "name": "no_pedestrians",
         "emoji": "🚷",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_pedestrians.png",
         "price": 10
     },
     {
-        "id": 2868,
+        "id": 2867,
         "name": "no_mobile_phones",
         "emoji": "📵",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_mobile_phones.png",
         "price": 10
     },
     {
-        "id": 2869,
+        "id": 2868,
         "name": "no_one_under_eighteen",
         "emoji": "🔞",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/no_one_under_eighteen.png",
         "price": 10
     },
     {
-        "id": 2870,
+        "id": 2869,
         "name": "radioactive",
         "emoji": "☢️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/radioactive.png",
         "price": 10
     },
     {
-        "id": 2871,
+        "id": 2870,
         "name": "biohazard",
         "emoji": "☣️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/biohazard.png",
         "price": 10
     },
     {
-        "id": 2872,
+        "id": 2871,
         "name": "up_arrow",
         "emoji": "⬆️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/up_arrow.png",
         "price": 10
     },
     {
-        "id": 2873,
+        "id": 2872,
         "name": "up-right_arrow",
         "emoji": "↗️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/up-right_arrow.png",
         "price": 10
     },
     {
-        "id": 2874,
+        "id": 2873,
         "name": "right_arrow",
         "emoji": "➡️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/right_arrow.png",
         "price": 10
     },
     {
-        "id": 2875,
+        "id": 2874,
         "name": "down-right_arrow",
         "emoji": "↘️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/down-right_arrow.png",
         "price": 10
     },
     {
-        "id": 2876,
+        "id": 2875,
         "name": "down_arrow",
         "emoji": "⬇️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/down_arrow.png",
         "price": 10
     },
     {
-        "id": 2877,
+        "id": 2876,
         "name": "down-left_arrow",
         "emoji": "↙️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/down-left_arrow.png",
         "price": 10
     },
     {
-        "id": 2878,
+        "id": 2877,
         "name": "left_arrow",
         "emoji": "⬅️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/left_arrow.png",
         "price": 10
     },
     {
-        "id": 2879,
+        "id": 2878,
         "name": "up-left_arrow",
         "emoji": "↖️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/up-left_arrow.png",
         "price": 10
     },
     {
-        "id": 2880,
+        "id": 2879,
         "name": "up-down_arrow",
         "emoji": "↕️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/up-down_arrow.png",
         "price": 10
     },
     {
-        "id": 2881,
+        "id": 2880,
         "name": "left-right_arrow",
         "emoji": "↔️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/left-right_arrow.png",
         "price": 10
     },
     {
-        "id": 2882,
+        "id": 2881,
         "name": "right_arrow_curving_left",
         "emoji": "↩️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/right_arrow_curving_left.png",
         "price": 10
     },
     {
-        "id": 2883,
+        "id": 2882,
         "name": "left_arrow_curving_right",
         "emoji": "↪️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/left_arrow_curving_right.png",
         "price": 10
     },
     {
-        "id": 2884,
+        "id": 2883,
         "name": "right_arrow_curving_up",
         "emoji": "⤴️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/right_arrow_curving_up.png",
         "price": 10
     },
     {
-        "id": 2885,
+        "id": 2884,
         "name": "right_arrow_curving_down",
         "emoji": "⤵️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/right_arrow_curving_down.png",
         "price": 10
     },
     {
-        "id": 2886,
+        "id": 2885,
         "name": "clockwise_vertical_arrows",
         "emoji": "🔃",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/clockwise_vertical_arrows.png",
         "price": 10
     },
     {
-        "id": 2887,
+        "id": 2886,
         "name": "counterclockwise_arrows_button",
         "emoji": "🔄",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/counterclockwise_arrows_button.png",
         "price": 10
     },
     {
-        "id": 2888,
+        "id": 2887,
         "name": "back_arrow",
         "emoji": "🔙",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/back_arrow.png",
         "price": 10
     },
     {
-        "id": 2889,
+        "id": 2888,
         "name": "end_arrow",
         "emoji": "🔚",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/end_arrow.png",
         "price": 10
     },
     {
-        "id": 2890,
+        "id": 2889,
         "name": "on!_arrow",
         "emoji": "🔛",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/on!_arrow.png",
         "price": 10
     },
     {
-        "id": 2891,
+        "id": 2890,
         "name": "soon_arrow",
         "emoji": "🔜",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/soon_arrow.png",
         "price": 10
     },
     {
-        "id": 2892,
+        "id": 2891,
         "name": "top_arrow",
         "emoji": "🔝",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/top_arrow.png",
         "price": 10
     },
     {
-        "id": 2893,
+        "id": 2892,
         "name": "place_of_worship",
         "emoji": "🛐",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/place_of_worship.png",
         "price": 10
     },
     {
-        "id": 2894,
+        "id": 2893,
         "name": "atom_symbol",
         "emoji": "⚛️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/atom_symbol.png",
         "price": 10
     },
     {
-        "id": 2895,
+        "id": 2894,
         "name": "om",
         "emoji": "🕉️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/om.png",
         "price": 10
     },
     {
-        "id": 2896,
+        "id": 2895,
         "name": "star_of_david",
         "emoji": "✡️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/star_of_david.png",
         "price": 10
     },
     {
-        "id": 2897,
+        "id": 2896,
         "name": "wheel_of_dharma",
         "emoji": "☸️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/wheel_of_dharma.png",
         "price": 10
     },
     {
-        "id": 2898,
+        "id": 2897,
         "name": "yin_yang",
         "emoji": "☯️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/yin_yang.png",
         "price": 10
     },
     {
-        "id": 2899,
+        "id": 2898,
         "name": "latin_cross",
         "emoji": "✝️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/latin_cross.png",
         "price": 10
     },
     {
-        "id": 2900,
+        "id": 2899,
         "name": "orthodox_cross",
         "emoji": "☦️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/orthodox_cross.png",
         "price": 10
     },
     {
-        "id": 2901,
+        "id": 2900,
         "name": "star_and_crescent",
         "emoji": "☪️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/star_and_crescent.png",
         "price": 10
     },
     {
-        "id": 2902,
+        "id": 2901,
         "name": "peace_symbol",
         "emoji": "☮️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/peace_symbol.png",
         "price": 10
     },
     {
-        "id": 2903,
+        "id": 2902,
         "name": "menorah",
         "emoji": "🕎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/menorah.png",
         "price": 10
     },
     {
-        "id": 2904,
+        "id": 2903,
         "name": "dotted_six-pointed_star",
         "emoji": "🔯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dotted_six-pointed_star.png",
         "price": 10
     },
     {
-        "id": 2905,
+        "id": 2904,
         "name": "khanda",
         "emoji": "🪯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/khanda.png",
         "price": 10
     },
     {
-        "id": 2906,
+        "id": 2905,
         "name": "aries",
         "emoji": "♈",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/aries.png",
         "price": 10
     },
     {
-        "id": 2907,
+        "id": 2906,
         "name": "taurus",
         "emoji": "♉",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/taurus.png",
         "price": 10
     },
     {
-        "id": 2908,
+        "id": 2907,
         "name": "gemini",
         "emoji": "♊",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/gemini.png",
         "price": 10
     },
     {
-        "id": 2909,
+        "id": 2908,
         "name": "cancer",
         "emoji": "♋",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cancer.png",
         "price": 10
     },
     {
-        "id": 2910,
+        "id": 2909,
         "name": "leo",
         "emoji": "♌",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/leo.png",
         "price": 10
     },
     {
-        "id": 2911,
+        "id": 2910,
         "name": "virgo",
         "emoji": "♍",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/virgo.png",
         "price": 10
     },
     {
-        "id": 2912,
+        "id": 2911,
         "name": "libra",
         "emoji": "♎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/libra.png",
         "price": 10
     },
     {
-        "id": 2913,
+        "id": 2912,
         "name": "scorpio",
         "emoji": "♏",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/scorpio.png",
         "price": 10
     },
     {
-        "id": 2914,
+        "id": 2913,
         "name": "sagittarius",
         "emoji": "♐",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sagittarius.png",
         "price": 10
     },
     {
-        "id": 2915,
+        "id": 2914,
         "name": "capricorn",
         "emoji": "♑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/capricorn.png",
         "price": 10
     },
     {
-        "id": 2916,
+        "id": 2915,
         "name": "aquarius",
         "emoji": "♒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/aquarius.png",
         "price": 10
     },
     {
-        "id": 2917,
+        "id": 2916,
         "name": "pisces",
         "emoji": "♓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pisces.png",
         "price": 10
     },
     {
-        "id": 2918,
+        "id": 2917,
         "name": "ophiuchus",
         "emoji": "⛎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ophiuchus.png",
         "price": 10
     },
     {
-        "id": 2919,
+        "id": 2918,
         "name": "shuffle_tracks_button",
         "emoji": "🔀",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/shuffle_tracks_button.png",
         "price": 10
     },
     {
-        "id": 2920,
+        "id": 2919,
         "name": "repeat_button",
         "emoji": "🔁",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/repeat_button.png",
         "price": 10
     },
     {
-        "id": 2921,
+        "id": 2920,
         "name": "repeat_single_button",
         "emoji": "🔂",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/repeat_single_button.png",
         "price": 10
     },
     {
-        "id": 2922,
+        "id": 2921,
         "name": "play_button",
         "emoji": "▶️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/play_button.png",
         "price": 10
     },
     {
-        "id": 2923,
+        "id": 2922,
         "name": "fast-forward_button",
         "emoji": "⏩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fast-forward_button.png",
         "price": 10
     },
     {
-        "id": 2924,
+        "id": 2923,
         "name": "next_track_button",
         "emoji": "⏭️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/next_track_button.png",
         "price": 10
     },
     {
-        "id": 2925,
+        "id": 2924,
         "name": "play_or_pause_button",
         "emoji": "⏯️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/play_or_pause_button.png",
         "price": 10
     },
     {
-        "id": 2926,
+        "id": 2925,
         "name": "reverse_button",
         "emoji": "◀️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/reverse_button.png",
         "price": 10
     },
     {
-        "id": 2927,
+        "id": 2926,
         "name": "fast_reverse_button",
         "emoji": "⏪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fast_reverse_button.png",
         "price": 10
     },
     {
-        "id": 2928,
+        "id": 2927,
         "name": "last_track_button",
         "emoji": "⏮️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/last_track_button.png",
         "price": 10
     },
     {
-        "id": 2929,
+        "id": 2928,
         "name": "upwards_button",
         "emoji": "🔼",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/upwards_button.png",
         "price": 10
     },
     {
-        "id": 2930,
+        "id": 2929,
         "name": "fast_up_button",
         "emoji": "⏫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fast_up_button.png",
         "price": 10
     },
     {
-        "id": 2931,
+        "id": 2930,
         "name": "downwards_button",
         "emoji": "🔽",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/downwards_button.png",
         "price": 10
     },
     {
-        "id": 2932,
+        "id": 2931,
         "name": "fast_down_button",
         "emoji": "⏬",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fast_down_button.png",
         "price": 10
     },
     {
-        "id": 2933,
+        "id": 2932,
         "name": "pause_button",
         "emoji": "⏸️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pause_button.png",
         "price": 10
     },
     {
-        "id": 2934,
+        "id": 2933,
         "name": "stop_button",
         "emoji": "⏹️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/stop_button.png",
         "price": 10
     },
     {
-        "id": 2935,
+        "id": 2934,
         "name": "record_button",
         "emoji": "⏺️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/record_button.png",
         "price": 10
     },
     {
-        "id": 2936,
+        "id": 2935,
         "name": "eject_button",
         "emoji": "⏏️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/eject_button.png",
         "price": 10
     },
     {
-        "id": 2937,
+        "id": 2936,
         "name": "cinema",
         "emoji": "🎦",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cinema.png",
         "price": 10
     },
     {
-        "id": 2938,
+        "id": 2937,
         "name": "dim_button",
         "emoji": "🔅",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/dim_button.png",
         "price": 10
     },
     {
-        "id": 2939,
+        "id": 2938,
         "name": "bright_button",
         "emoji": "🔆",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/bright_button.png",
         "price": 10
     },
     {
-        "id": 2940,
+        "id": 2939,
         "name": "antenna_bars",
         "emoji": "📶",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/antenna_bars.png",
         "price": 10
     },
     {
-        "id": 2941,
+        "id": 2940,
         "name": "wireless",
         "emoji": "🛜",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/wireless.png",
         "price": 10
     },
     {
-        "id": 2942,
+        "id": 2941,
         "name": "vibration_mode",
         "emoji": "📳",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/vibration_mode.png",
         "price": 10
     },
     {
-        "id": 2943,
+        "id": 2942,
         "name": "mobile_phone_off",
         "emoji": "📴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/mobile_phone_off.png",
         "price": 10
     },
     {
-        "id": 2944,
+        "id": 2943,
         "name": "female_sign",
         "emoji": "♀️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/female_sign.png",
         "price": 10
     },
     {
-        "id": 2945,
+        "id": 2944,
         "name": "male_sign",
         "emoji": "♂️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/male_sign.png",
         "price": 10
     },
     {
-        "id": 2946,
+        "id": 2945,
         "name": "transgender_symbol",
         "emoji": "⚧️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/transgender_symbol.png",
         "price": 10
     },
     {
-        "id": 2947,
+        "id": 2946,
         "name": "multiply",
         "emoji": "✖️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/multiply.png",
         "price": 10
     },
     {
-        "id": 2948,
+        "id": 2947,
         "name": "plus",
         "emoji": "➕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/plus.png",
         "price": 10
     },
     {
-        "id": 2949,
+        "id": 2948,
         "name": "minus",
         "emoji": "➖",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/minus.png",
         "price": 10
     },
     {
-        "id": 2950,
+        "id": 2949,
         "name": "divide",
         "emoji": "➗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/divide.png",
         "price": 10
     },
     {
-        "id": 2951,
+        "id": 2950,
         "name": "heavy_equals_sign",
         "emoji": "🟰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/heavy_equals_sign.png",
         "price": 10
     },
     {
-        "id": 2952,
+        "id": 2951,
         "name": "infinity",
         "emoji": "♾️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/infinity.png",
         "price": 10
     },
     {
-        "id": 2953,
+        "id": 2952,
         "name": "double_exclamation_mark",
         "emoji": "‼️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/double_exclamation_mark.png",
         "price": 10
     },
     {
-        "id": 2954,
+        "id": 2953,
         "name": "exclamation_question_mark",
         "emoji": "⁉️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/exclamation_question_mark.png",
         "price": 10
     },
     {
-        "id": 2955,
+        "id": 2954,
         "name": "red_question_mark",
         "emoji": "❓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_question_mark.png",
         "price": 10
     },
     {
-        "id": 2956,
+        "id": 2955,
         "name": "white_question_mark",
         "emoji": "❔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_question_mark.png",
         "price": 10
     },
     {
-        "id": 2957,
+        "id": 2956,
         "name": "white_exclamation_mark",
         "emoji": "❕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_exclamation_mark.png",
         "price": 10
     },
     {
-        "id": 2958,
+        "id": 2957,
         "name": "red_exclamation_mark",
         "emoji": "❗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_exclamation_mark.png",
         "price": 10
     },
     {
-        "id": 2959,
+        "id": 2958,
         "name": "wavy_dash",
         "emoji": "〰️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/wavy_dash.png",
         "price": 10
     },
     {
-        "id": 2960,
+        "id": 2959,
         "name": "currency_exchange",
         "emoji": "💱",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/currency_exchange.png",
         "price": 10
     },
     {
-        "id": 2961,
+        "id": 2960,
         "name": "heavy_dollar_sign",
         "emoji": "💲",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/heavy_dollar_sign.png",
         "price": 10
     },
     {
-        "id": 2962,
+        "id": 2961,
         "name": "medical_symbol",
         "emoji": "⚕️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/medical_symbol.png",
         "price": 10
     },
     {
-        "id": 2963,
+        "id": 2962,
         "name": "recycling_symbol",
         "emoji": "♻️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/recycling_symbol.png",
         "price": 10
     },
     {
-        "id": 2964,
+        "id": 2963,
         "name": "fleur-de-lis",
         "emoji": "⚜️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/fleur-de-lis.png",
         "price": 10
     },
     {
-        "id": 2965,
+        "id": 2964,
         "name": "trident_emblem",
         "emoji": "🔱",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/trident_emblem.png",
         "price": 10
     },
     {
-        "id": 2966,
+        "id": 2965,
         "name": "name_badge",
         "emoji": "📛",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/name_badge.png",
         "price": 10
     },
     {
-        "id": 2967,
+        "id": 2966,
         "name": "japanese_symbol_for_beginner",
         "emoji": "🔰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_symbol_for_beginner.png",
         "price": 10
     },
     {
-        "id": 2968,
+        "id": 2967,
         "name": "hollow_red_circle",
         "emoji": "⭕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/hollow_red_circle.png",
         "price": 10
     },
     {
-        "id": 2969,
+        "id": 2968,
         "name": "check_mark_button",
         "emoji": "✅",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/check_mark_button.png",
         "price": 10
     },
     {
-        "id": 2970,
+        "id": 2969,
         "name": "check_box_with_check",
         "emoji": "☑️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/check_box_with_check.png",
         "price": 10
     },
     {
-        "id": 2971,
+        "id": 2970,
         "name": "check_mark",
         "emoji": "✔️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/check_mark.png",
         "price": 10
     },
     {
-        "id": 2972,
+        "id": 2971,
         "name": "cross_mark",
         "emoji": "❌",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cross_mark.png",
         "price": 10
     },
     {
-        "id": 2973,
+        "id": 2972,
         "name": "cross_mark_button",
         "emoji": "❎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cross_mark_button.png",
         "price": 10
     },
     {
-        "id": 2974,
+        "id": 2973,
         "name": "curly_loop",
         "emoji": "➰",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/curly_loop.png",
         "price": 10
     },
     {
-        "id": 2975,
+        "id": 2974,
         "name": "double_curly_loop",
         "emoji": "➿",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/double_curly_loop.png",
         "price": 10
     },
     {
-        "id": 2976,
+        "id": 2975,
         "name": "part_alternation_mark",
         "emoji": "〽️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/part_alternation_mark.png",
         "price": 10
     },
     {
-        "id": 2977,
+        "id": 2976,
         "name": "eight-spoked_asterisk",
         "emoji": "✳️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/eight-spoked_asterisk.png",
         "price": 10
     },
     {
-        "id": 2978,
+        "id": 2977,
         "name": "eight-pointed_star",
         "emoji": "✴️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/eight-pointed_star.png",
         "price": 10
     },
     {
-        "id": 2979,
+        "id": 2978,
         "name": "sparkle",
         "emoji": "❇️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sparkle.png",
         "price": 10
     },
     {
-        "id": 2980,
+        "id": 2979,
         "name": "copyright",
         "emoji": "©️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/copyright.png",
         "price": 10
     },
     {
-        "id": 2981,
+        "id": 2980,
         "name": "registered",
         "emoji": "®️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/registered.png",
         "price": 10
     },
     {
-        "id": 2982,
+        "id": 2981,
         "name": "trade_mark",
         "emoji": "™️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/trade_mark.png",
         "price": 10
     },
     {
-        "id": 2983,
+        "id": 2982,
         "name": "keycap_*",
         "emoji": "*️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_*.png",
         "price": 10
     },
     {
-        "id": 2984,
+        "id": 2983,
         "name": "keycap_0",
         "emoji": "0️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_0.png",
         "price": 10
     },
     {
-        "id": 2985,
+        "id": 2984,
         "name": "keycap_1",
         "emoji": "1️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_1.png",
         "price": 10
     },
     {
-        "id": 2986,
+        "id": 2985,
         "name": "keycap_2",
         "emoji": "2️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_2.png",
         "price": 10
     },
     {
-        "id": 2987,
+        "id": 2986,
         "name": "keycap_3",
         "emoji": "3️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_3.png",
         "price": 10
     },
     {
-        "id": 2988,
+        "id": 2987,
         "name": "keycap_4",
         "emoji": "4️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_4.png",
         "price": 10
     },
     {
-        "id": 2989,
+        "id": 2988,
         "name": "keycap_5",
         "emoji": "5️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_5.png",
         "price": 10
     },
     {
-        "id": 2990,
+        "id": 2989,
         "name": "keycap_6",
         "emoji": "6️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_6.png",
         "price": 10
     },
     {
-        "id": 2991,
+        "id": 2990,
         "name": "keycap_7",
         "emoji": "7️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_7.png",
         "price": 10
     },
     {
-        "id": 2992,
+        "id": 2991,
         "name": "keycap_8",
         "emoji": "8️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_8.png",
         "price": 10
     },
     {
-        "id": 2993,
+        "id": 2992,
         "name": "keycap_9",
         "emoji": "9️⃣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_9.png",
         "price": 10
     },
     {
-        "id": 2994,
+        "id": 2993,
         "name": "keycap_10",
         "emoji": "🔟",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/keycap_10.png",
         "price": 10
     },
     {
-        "id": 2995,
+        "id": 2994,
         "name": "input_latin_uppercase",
         "emoji": "🔠",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/input_latin_uppercase.png",
         "price": 10
     },
     {
-        "id": 2996,
+        "id": 2995,
         "name": "input_latin_lowercase",
         "emoji": "🔡",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/input_latin_lowercase.png",
         "price": 10
     },
     {
-        "id": 2997,
+        "id": 2996,
         "name": "input_numbers",
         "emoji": "🔢",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/input_numbers.png",
         "price": 10
     },
     {
-        "id": 2998,
+        "id": 2997,
         "name": "input_symbols",
         "emoji": "🔣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/input_symbols.png",
         "price": 10
     },
     {
-        "id": 2999,
+        "id": 2998,
         "name": "input_latin_letters",
         "emoji": "🔤",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/input_latin_letters.png",
         "price": 10
     },
     {
-        "id": 3000,
+        "id": 2999,
         "name": "a_button_(blood_type)",
         "emoji": "🅰️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/a_button_(blood_type).png",
         "price": 10
     },
     {
-        "id": 3001,
+        "id": 3000,
         "name": "ab_button_(blood_type)",
         "emoji": "🆎",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ab_button_(blood_type).png",
         "price": 10
     },
     {
-        "id": 3002,
+        "id": 3001,
         "name": "b_button_(blood_type)",
         "emoji": "🅱️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/b_button_(blood_type).png",
         "price": 10
     },
     {
-        "id": 3003,
+        "id": 3002,
         "name": "cl_button",
         "emoji": "🆑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cl_button.png",
         "price": 10
     },
     {
-        "id": 3004,
+        "id": 3003,
         "name": "cool_button",
         "emoji": "🆒",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/cool_button.png",
         "price": 10
     },
     {
-        "id": 3005,
+        "id": 3004,
         "name": "free_button",
         "emoji": "🆓",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/free_button.png",
         "price": 10
     },
     {
-        "id": 3006,
+        "id": 3005,
         "name": "information",
         "emoji": "ℹ️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/information.png",
         "price": 10
     },
     {
-        "id": 3007,
+        "id": 3006,
         "name": "id_button",
         "emoji": "🆔",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/id_button.png",
         "price": 10
     },
     {
-        "id": 3008,
+        "id": 3007,
         "name": "circled_m",
         "emoji": "Ⓜ️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/circled_m.png",
         "price": 10
     },
     {
-        "id": 3009,
+        "id": 3008,
         "name": "new_button",
         "emoji": "🆕",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/new_button.png",
         "price": 10
     },
     {
-        "id": 3010,
+        "id": 3009,
         "name": "ng_button",
         "emoji": "🆖",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ng_button.png",
         "price": 10
     },
     {
-        "id": 3011,
+        "id": 3010,
         "name": "o_button_(blood_type)",
         "emoji": "🅾️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/o_button_(blood_type).png",
         "price": 10
     },
     {
-        "id": 3012,
+        "id": 3011,
         "name": "ok_button",
         "emoji": "🆗",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/ok_button.png",
         "price": 10
     },
     {
-        "id": 3013,
+        "id": 3012,
         "name": "p_button",
         "emoji": "🅿️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/p_button.png",
         "price": 10
     },
     {
-        "id": 3014,
+        "id": 3013,
         "name": "sos_button",
         "emoji": "🆘",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/sos_button.png",
         "price": 10
     },
     {
-        "id": 3015,
+        "id": 3014,
         "name": "up!_button",
         "emoji": "🆙",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/up!_button.png",
         "price": 10
     },
     {
-        "id": 3016,
+        "id": 3015,
         "name": "vs_button",
         "emoji": "🆚",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/vs_button.png",
         "price": 10
     },
     {
-        "id": 3017,
+        "id": 3016,
         "name": "japanese_“here”_button",
         "emoji": "🈁",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“here”_button.png",
         "price": 10
     },
     {
-        "id": 3018,
+        "id": 3017,
         "name": "japanese_“service_charge”_button",
         "emoji": "🈂️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“service_charge”_button.png",
         "price": 10
     },
     {
-        "id": 3019,
+        "id": 3018,
         "name": "japanese_“monthly_amount”_button",
         "emoji": "🈷️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“monthly_amount”_button.png",
         "price": 10
     },
     {
-        "id": 3020,
+        "id": 3019,
         "name": "japanese_“not_free_of_charge”_button",
         "emoji": "🈶",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“not_free_of_charge”_button.png",
         "price": 10
     },
     {
-        "id": 3021,
+        "id": 3020,
         "name": "japanese_“reserved”_button",
         "emoji": "🈯",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“reserved”_button.png",
         "price": 10
     },
     {
-        "id": 3022,
+        "id": 3021,
         "name": "japanese_“bargain”_button",
         "emoji": "🉐",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“bargain”_button.png",
         "price": 10
     },
     {
-        "id": 3023,
+        "id": 3022,
         "name": "japanese_“discount”_button",
         "emoji": "🈹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“discount”_button.png",
         "price": 10
     },
     {
-        "id": 3024,
+        "id": 3023,
         "name": "japanese_“free_of_charge”_button",
         "emoji": "🈚",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“free_of_charge”_button.png",
         "price": 10
     },
     {
-        "id": 3025,
+        "id": 3024,
         "name": "japanese_“prohibited”_button",
         "emoji": "🈲",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“prohibited”_button.png",
         "price": 10
     },
     {
-        "id": 3026,
+        "id": 3025,
         "name": "japanese_“acceptable”_button",
         "emoji": "🉑",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“acceptable”_button.png",
         "price": 10
     },
     {
-        "id": 3027,
+        "id": 3026,
         "name": "japanese_“application”_button",
         "emoji": "🈸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“application”_button.png",
         "price": 10
     },
     {
-        "id": 3028,
+        "id": 3027,
         "name": "japanese_“passing_grade”_button",
         "emoji": "🈴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“passing_grade”_button.png",
         "price": 10
     },
     {
-        "id": 3029,
+        "id": 3028,
         "name": "japanese_“vacancy”_button",
         "emoji": "🈳",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“vacancy”_button.png",
         "price": 10
     },
     {
-        "id": 3030,
+        "id": 3029,
         "name": "japanese_“congratulations”_button",
         "emoji": "㊗️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“congratulations”_button.png",
         "price": 10
     },
     {
-        "id": 3031,
+        "id": 3030,
         "name": "japanese_“secret”_button",
         "emoji": "㊙️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“secret”_button.png",
         "price": 10
     },
     {
-        "id": 3032,
+        "id": 3031,
         "name": "japanese_“open_for_business”_button",
         "emoji": "🈺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“open_for_business”_button.png",
         "price": 10
     },
     {
-        "id": 3033,
+        "id": 3032,
         "name": "japanese_“no_vacancy”_button",
         "emoji": "🈵",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/japanese_“no_vacancy”_button.png",
         "price": 10
     },
     {
-        "id": 3034,
+        "id": 3033,
         "name": "red_circle",
         "emoji": "🔴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_circle.png",
         "price": 10
     },
     {
-        "id": 3035,
+        "id": 3034,
         "name": "orange_circle",
         "emoji": "🟠",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/orange_circle.png",
         "price": 10
     },
     {
-        "id": 3036,
+        "id": 3035,
         "name": "yellow_circle",
         "emoji": "🟡",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/yellow_circle.png",
         "price": 10
     },
     {
-        "id": 3037,
+        "id": 3036,
         "name": "green_circle",
         "emoji": "🟢",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/green_circle.png",
         "price": 10
     },
     {
-        "id": 3038,
+        "id": 3037,
         "name": "blue_circle",
         "emoji": "🔵",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/blue_circle.png",
         "price": 10
     },
     {
-        "id": 3039,
+        "id": 3038,
         "name": "purple_circle",
         "emoji": "🟣",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/purple_circle.png",
         "price": 10
     },
     {
-        "id": 3040,
+        "id": 3039,
         "name": "brown_circle",
         "emoji": "🟤",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/brown_circle.png",
         "price": 10
     },
     {
-        "id": 3041,
+        "id": 3040,
         "name": "black_circle",
         "emoji": "⚫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_circle.png",
         "price": 10
     },
     {
-        "id": 3042,
+        "id": 3041,
         "name": "white_circle",
         "emoji": "⚪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_circle.png",
         "price": 10
     },
     {
-        "id": 3043,
+        "id": 3042,
         "name": "red_square",
         "emoji": "🟥",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_square.png",
         "price": 10
     },
     {
-        "id": 3044,
+        "id": 3043,
         "name": "orange_square",
         "emoji": "🟧",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/orange_square.png",
         "price": 10
     },
     {
-        "id": 3045,
+        "id": 3044,
         "name": "yellow_square",
         "emoji": "🟨",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/yellow_square.png",
         "price": 10
     },
     {
-        "id": 3046,
+        "id": 3045,
         "name": "green_square",
         "emoji": "🟩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/green_square.png",
         "price": 10
     },
     {
-        "id": 3047,
+        "id": 3046,
         "name": "blue_square",
         "emoji": "🟦",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/blue_square.png",
         "price": 10
     },
     {
-        "id": 3048,
+        "id": 3047,
         "name": "purple_square",
         "emoji": "🟪",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/purple_square.png",
         "price": 10
     },
     {
-        "id": 3049,
+        "id": 3048,
         "name": "brown_square",
         "emoji": "🟫",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/brown_square.png",
         "price": 10
     },
     {
-        "id": 3050,
+        "id": 3049,
         "name": "black_large_square",
         "emoji": "⬛",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_large_square.png",
         "price": 10
     },
     {
-        "id": 3051,
+        "id": 3050,
         "name": "white_large_square",
         "emoji": "⬜",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_large_square.png",
         "price": 10
     },
     {
-        "id": 3052,
+        "id": 3051,
         "name": "black_medium_square",
         "emoji": "◼️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_medium_square.png",
         "price": 10
     },
     {
-        "id": 3053,
+        "id": 3052,
         "name": "white_medium_square",
         "emoji": "◻️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_medium_square.png",
         "price": 10
     },
     {
-        "id": 3054,
+        "id": 3053,
         "name": "black_medium-small_square",
         "emoji": "◾",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_medium-small_square.png",
         "price": 10
     },
     {
-        "id": 3055,
+        "id": 3054,
         "name": "white_medium-small_square",
         "emoji": "◽",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_medium-small_square.png",
         "price": 10
     },
     {
-        "id": 3056,
+        "id": 3055,
         "name": "black_small_square",
         "emoji": "▪️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_small_square.png",
         "price": 10
     },
     {
-        "id": 3057,
+        "id": 3056,
         "name": "white_small_square",
         "emoji": "▫️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_small_square.png",
         "price": 10
     },
     {
-        "id": 3058,
+        "id": 3057,
         "name": "large_orange_diamond",
         "emoji": "🔶",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/large_orange_diamond.png",
         "price": 10
     },
     {
-        "id": 3059,
+        "id": 3058,
         "name": "large_blue_diamond",
         "emoji": "🔷",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/large_blue_diamond.png",
         "price": 10
     },
     {
-        "id": 3060,
+        "id": 3059,
         "name": "small_orange_diamond",
         "emoji": "🔸",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/small_orange_diamond.png",
         "price": 10
     },
     {
-        "id": 3061,
+        "id": 3060,
         "name": "small_blue_diamond",
         "emoji": "🔹",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/small_blue_diamond.png",
         "price": 10
     },
     {
-        "id": 3062,
+        "id": 3061,
         "name": "red_triangle_pointed_up",
         "emoji": "🔺",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_triangle_pointed_up.png",
         "price": 10
     },
     {
-        "id": 3063,
+        "id": 3062,
         "name": "red_triangle_pointed_down",
         "emoji": "🔻",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/red_triangle_pointed_down.png",
         "price": 10
     },
     {
-        "id": 3064,
+        "id": 3063,
         "name": "diamond_with_a_dot",
         "emoji": "💠",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/diamond_with_a_dot.png",
         "price": 10
     },
     {
-        "id": 3065,
+        "id": 3064,
         "name": "radio_button",
         "emoji": "🔘",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/radio_button.png",
         "price": 10
     },
     {
-        "id": 3066,
+        "id": 3065,
         "name": "white_square_button",
         "emoji": "🔳",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_square_button.png",
         "price": 10
     },
     {
-        "id": 3067,
+        "id": 3066,
         "name": "black_square_button",
         "emoji": "🔲",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_square_button.png",
         "price": 10
     },
     {
-        "id": 3068,
+        "id": 3067,
         "name": "chequered_flag",
         "emoji": "🏁",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/chequered_flag.png",
         "price": 10
     },
     {
-        "id": 3069,
+        "id": 3068,
         "name": "triangular_flag",
         "emoji": "🚩",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/triangular_flag.png",
         "price": 10
     },
     {
-        "id": 3070,
+        "id": 3069,
         "name": "crossed_flags",
         "emoji": "🎌",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/crossed_flags.png",
         "price": 10
     },
     {
-        "id": 3071,
+        "id": 3070,
         "name": "black_flag",
         "emoji": "🏴",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/black_flag.png",
         "price": 10
     },
     {
-        "id": 3072,
+        "id": 3071,
         "name": "white_flag",
         "emoji": "🏳️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/white_flag.png",
         "price": 10
     },
     {
-        "id": 3073,
+        "id": 3072,
         "name": "rainbow_flag",
         "emoji": "🏳️‍🌈",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/rainbow_flag.png",
         "price": 10
     },
     {
-        "id": 3074,
+        "id": 3073,
         "name": "transgender_flag",
         "emoji": "🏳️‍⚧️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/transgender_flag.png",
         "price": 10
     },
     {
-        "id": 3075,
+        "id": 3074,
         "name": "pirate_flag",
         "emoji": "🏴‍☠️",
         "image": "https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/pirate_flag.png",
