@@ -1,5 +1,6 @@
 import requests
 import json
+import csv
 import os
 from pathlib import Path
 
@@ -45,6 +46,8 @@ def check_files_exist(emoji_list, directory_path):
     directory_path = Path(directory_path)
     matches = {}
     non_matches = {}
+    stickers = []
+    ct = 0
 
     files_in_directory = {f.name.lower() for f in directory_path.iterdir() if f.is_file()}
     
@@ -53,9 +56,17 @@ def check_files_exist(emoji_list, directory_path):
         if file_name not in files_in_directory:
             non_matches[emoji] = description
         else:
+            ct += 1
             matches[emoji] = description
+            stickers.append({
+                "index": ct,
+                "emoji": emoji,
+                "image": f"https://cdn.statically.io/gh/runic-inc/ploink-fluent-stickers/release/assets/{description}.png",
+                "price": 10
+            })
+
     
-    return matches, non_matches
+    return matches, non_matches, stickers
 
 
 def save_to_json(data, filename):
@@ -70,5 +81,8 @@ if __name__ == "__main__":
 
     save_to_json(comparison[0], "../generated/emojis.json")
     save_to_json(comparison[1], "../generated/missing.json")
+    with open('../generated/stickers.csv', 'w', newline='') as file: 
+        writer = csv.DictWriter(file, fieldnames = ["index", "emoji", "image", "price"])
+        writer.writerows(comparison[2])
 
     print("Latest Unicode emoji list saved to emojis.json (non-matches saved to missing.json)")
